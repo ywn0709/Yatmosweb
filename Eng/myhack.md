@@ -83,20 +83,37 @@ The ```sidebar.html``` under ```layouts/partials``` looks like,
 ```
 So, there will be a list of category taxonomy values when there is "categories" in the front matter, or the type of the content is "categories". The second one is necessary for the webpage for chosen taxonomy value to have the sidebar.
 
-When the taxonomy is selected, we want to have a list page dedicated for that taxonomy. To do this, I need to modify the line number 40 in ```layout/_default/list.html``` to
+#### list.html
+When the taxonomy is selected, we want to have a list page dedicated for that taxonomy. 
+So we have to change the line associated with "paginator" to allow any type of the contents to be listed.  
+So, I  removed ```(where .Data.Pages "Type" "blog")``` and it now looks as
 ```
 {{ $paginator := (.Paginate .Data.Pages) }}
 ```
-Then, this html script will make a list page for a new taxonomy.
-Also, I added
+
+Furthermore, I want to have a different type of list for "People".
+So I added "if" statement to use different list format when the content type is "People".
+
 ```
-{{ if isset .Params "teams" }}
-{{ if gt (len .Params.teams) 0 }}
-in <a href="{{ $.Site.BaseURL }}teams/{{ index .Params.teams 0 | urlize | lower }}">{{ index .Params.teams 0 }}</a>
-{{ end }}
-{{ end }}
+                        {{ if or (isset .Params "teams") (eq .Type "teams") }}
+                        <section class="post">
+                        <div class="row">
+                        <div class="row text-center">
+                        {{ $paginator := (.Paginate .Data.Pages) }}
+                        {{ range $paginator.Pages }}
+                            <div class="col-md-3 col-sm-3">
+                                <div class="team-member">
+                                    <div class="image"><a href="{{ .Permalink }}"><img src="img/person-2.jpg" alt="" class="img-fluid rounded-circle"></a></div>
+                                    <h3><a href="team-member.html">Luke Skywalker</a></h3>
+                                    <p class="role">CTO</p>
+                                </div>
+                            </div>
+                        {{ end }}
+                        </div>
+                        </div>
+                        </section>
 ```
-right below the block for "categories" to the same file to get the name of the new taxonomy in the summary of the contents.
+right below the ```<div class="col-md-9" id="blog-listing-medium">```.
 
 We want to have an appropriate sidebar depending on the section.
 For example, we want to have "People" sidebar under "People" pages.
@@ -108,3 +125,5 @@ title = "People"
 teams = []
 +++
 ```
+
+I think this is it.
