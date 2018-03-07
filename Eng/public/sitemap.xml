@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/students/</loc>
+    <lastmod>2018-03-03T18:02:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</loc>
+    <lastmod>2017-12-18T14:08:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/research/cloudphysics/</loc>
+    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/education/graduate/</loc>
+    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/education/undergraduate/</loc>
+    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/researcher/</loc>
+    <lastmod>2017-12-18T12:43:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/02/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/09/17/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/faculty/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/atmos/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/</loc>
+    <lastmod>2018-03-03T18:02:12+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/education/</loc>
+    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/educations/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/teams/faculty/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/go/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/educations/graduate/</loc>
+    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/</loc>
+    <lastmod>2018-03-03T18:02:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/labs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/teams/researcher/</loc>
+    <lastmod>2017-12-18T12:43:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/research/</loc>
+    <lastmod>2017-12-18T14:08:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/teams/students/</loc>
+    <lastmod>2018-03-03T18:02:12+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/teams/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/educations/undergraduate/</loc>
+    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+</urlset>
