@@ -1,4 +1,4 @@
-baseurl = "http://web.yonsei.ac.kr/atmoseng/"
+baseurl = "http://web.yonsei.ac.kr/atmoskor/"
 title = "Dep. of Atmos. Sci."
 theme = "hugo-universal-theme"
 languageCode = "en-us"
