@@ -42,7 +42,8 @@
                         {{ range $paginator.Pages }}
                             <div class="col-md-3 col-sm-3">
                                 <div class="team-member">
-                                    <div class="image"><a href="{{ .Permalink }}"><img src="img/person-2.jpg" alt="" class="img-fluid rounded-circle"></a></div>
+                                    <div class="image"><a href="{{ .Permalink }}">
+                                        <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-fluid rounded-circle"></a></div>
                                     <h3><a href="team-member.html">Luke Skywalker</a></h3>
                                     <p class="role">CTO</p>
                                 </div>
