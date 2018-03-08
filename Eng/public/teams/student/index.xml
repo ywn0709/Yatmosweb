@@ -6,7 +6,7 @@
     <description>Recent content in Student on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2012 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="http://web.yonsei.ac.kr/atmoseng/teams/student/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</guid>
-      <description> Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
+      <description> Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  B.S. name of the school  Publications  THIS That Something else  If you want to add another section, you can add it like this  If you want to list the items, you can do this Another item Or you can describe the content like this.  </description>
     </item>
     
   </channel>

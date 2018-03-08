@@ -111,7 +111,7 @@ paginate = 5
     email = "atmosyonsei@gmail.com"
 
     about_us = "<p>Department of Atmospheric Sciences <br> College of Science <br> Yonsei University</p>"
-    copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
+    copyright = "Copyright (c) 2012 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -172,8 +172,8 @@ paginate = 5
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "Apply?"
+    icon = "fa fa-paper-plane"
+    title = "Apply"
     subtitle = "Check out our education program."
     link_url = "#"
     link_text = "Check other homepages"

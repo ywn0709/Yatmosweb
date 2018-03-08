@@ -6,11 +6,24 @@
     <description>Recent content in Education on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Dec 2017 14:08:23 -0500</lastBuildDate>
+    <copyright>Copyright (c) 2012 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 14:08:23 -0500</lastBuildDate>
     
 	<atom:link href="http://web.yonsei.ac.kr/atmoseng/education/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scholarship</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/education/scholarship/</link>
+      <pubDate>Thu, 01 Mar 2018 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoseng/education/scholarship/</guid>
+      <description>Admissions Please visit the offical admissions for graduates course
+Courses ATM6101 ATMOSPHERIC RADIATION 1 radiation law. solar and terrestrial radiation. radiative process in the atmosphere. principle of remote sensing.
+ATM6102 CLOUD AND PRECIPITATION PROCESSES structure and patterns of cloud, cloud microphysics and precipitation mechanism, artificial rain
+ATM6103 ATMOSPHERIC DYNAMICS I conservation principle. approximation of the equation of motion. atmospheric oscillation. scaling analysis.
+ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</description>
+    </item>
     
     <item>
       <title>Graduate</title>

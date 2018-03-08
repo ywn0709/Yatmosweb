@@ -6,11 +6,24 @@
     <description>Recent content on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Dec 2017 14:08:33 -0500</lastBuildDate>
+    <copyright>Copyright (c) 2012 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 14:08:23 -0500</lastBuildDate>
     
 	<atom:link href="http://web.yonsei.ac.kr/atmoseng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scholarship</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/education/scholarship/</link>
+      <pubDate>Thu, 01 Mar 2018 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoseng/education/scholarship/</guid>
+      <description>Admissions Please visit the offical admissions for graduates course
+Courses ATM6101 ATMOSPHERIC RADIATION 1 radiation law. solar and terrestrial radiation. radiative process in the atmosphere. principle of remote sensing.
+ATM6102 CLOUD AND PRECIPITATION PROCESSES structure and patterns of cloud, cloud microphysics and precipitation mechanism, artificial rain
+ATM6103 ATMOSPHERIC DYNAMICS I conservation principle. approximation of the equation of motion. atmospheric oscillation. scaling analysis.
+ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</description>
+    </item>
     
     <item>
       <title>GFDL</title>
@@ -91,7 +104,7 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</guid>
-      <description>Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  Ph.D. (2011) Scripps Institution of Oceanography, University of California, San Diego B.S. (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Selected Publication  Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens, M. R. Landry, 2017: Mesoscale ocean fronts enhance carbon export due to gravitational sinking and subduction.</description>
+      <description>Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  Ph.D. (2011) Scripps Institution of Oceanography, University of California, San Diego B.S. (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Selected Publications  Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens, M. R. Landry, 2017: Mesoscale ocean fronts enhance carbon export due to gravitational sinking and subduction.</description>
     </item>
     
     <item>
@@ -114,7 +127,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</guid>
-      <description> Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
+      <description> Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  B.S. name of the school  Publications  THIS That Something else  If you want to add another section, you can add it like this  If you want to list the items, you can do this Another item Or you can describe the content like this.  </description>
     </item>
     
     <item>
@@ -123,7 +136,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</guid>
-      <description> Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
+      <description> Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publications  THIS That Something else  </description>
     </item>
     
     <item>

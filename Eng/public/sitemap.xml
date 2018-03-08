@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/education/scholarship/</loc>
+    <lastmod>2018-03-01T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</loc>
     <lastmod>2017-12-18T14:08:33-05:00</lastmod>
   </url>
@@ -84,13 +89,13 @@
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/</loc>
-    <lastmod>2017-12-18T14:08:33-05:00</lastmod>
+    <lastmod>2018-03-01T14:08:23-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/education/</loc>
-    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+    <lastmod>2018-03-01T14:08:23-05:00</lastmod>
   </url>
   
   <url>
@@ -168,6 +173,12 @@
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/research/</loc>
     <lastmod>2017-12-18T14:08:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/educations/scholarship/</loc>
+    <lastmod>2018-03-01T14:08:23-05:00</lastmod>
     <priority>0</priority>
   </url>
   
