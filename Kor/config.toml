@@ -1,4 +1,4 @@
-baseurl = "http://web.yonsei.ac.kr/atmoseng/"
+baseurl = "http://web.yonsei.ac.kr/atmoskor/"
 title = "Dep. of Atmos. Sci."
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -111,7 +111,7 @@ paginate = 5
     # Enable the contact form by entering your Formspree.io email
     email = "atmosyonsei@gmail.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>연세대학교 이과대학 대기과학과</p>"
     copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
 
     # Format dates with Go's time formatting

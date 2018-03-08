@@ -110,7 +110,7 @@ paginate = 5
     # Enable the contact form by entering your Formspree.io email
     email = "atmosyonsei@gmail.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Department of Atmospheric Sciences <br> College of Science <br> Yonsei University</p>"
     copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -173,8 +173,8 @@ paginate = 5
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    title = "Apply?"
+    subtitle = "Check out our education program."
     link_url = "#"
     link_text = "Check other homepages"
 

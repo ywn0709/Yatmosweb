@@ -2,31 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Dep. of Atmos. Sci.</title>
-    <link>http://web.yonsei.ac.kr/atmoseng/teams/</link>
+    <link>http://web.yonsei.ac.kr/atmoskor/teams/</link>
     <description>Recent content in Teams on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="http://web.yonsei.ac.kr/atmoseng/teams/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/teams/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Faculty</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/teams/faculty/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/teams/faculty/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/teams/faculty/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/teams/faculty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Researcher</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/teams/researcher/</link>
+      <pubDate>Mon, 18 Dec 2017 12:43:21 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/teams/researcher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Student</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/teams/student/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/teams/student/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/teams/student/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/teams/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/teams/students/</link>
+      <pubDate>Sat, 03 Mar 2018 18:02:12 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/teams/students/</guid>
       <description></description>
     </item>
     

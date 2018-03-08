@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researcher on Dep. of Atmos. Sci.</title>
-    <link>http://web.yonsei.ac.kr/atmoseng/teams/researcher/</link>
+    <link>http://web.yonsei.ac.kr/atmoskor/teams/researcher/</link>
     <description>Recent content in Researcher on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
     <lastBuildDate>Mon, 18 Dec 2017 12:43:21 -0500</lastBuildDate>
     
-	<atom:link href="http://web.yonsei.ac.kr/atmoseng/teams/researcher/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/teams/researcher/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Researcher</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/researcher/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/researcher/</link>
       <pubDate>Mon, 18 Dec 2017 12:43:21 -0500</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/researcher/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/researcher/</guid>
       <description>Name of researchers
 go here</description>
     </item>

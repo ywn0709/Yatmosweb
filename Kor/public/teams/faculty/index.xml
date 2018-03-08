@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faculty on Dep. of Atmos. Sci.</title>
-    <link>http://web.yonsei.ac.kr/atmoseng/teams/faculty/</link>
+    <link>http://web.yonsei.ac.kr/atmoskor/teams/faculty/</link>
     <description>Recent content in Faculty on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="http://web.yonsei.ac.kr/atmoseng/teams/faculty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/teams/faculty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hajoon Song</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</link>
+      <title>Faculty</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/faculty/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/faculty/</guid>
+      <description>   Name title link     Yign Noh Professor GFDL   Hajoon Song Assistant Professor GFDL    </description>
+    </item>
+    
+    <item>
+      <title>Hajoon Song</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</guid>
       <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
     <item>
       <title>Yign Noh</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</guid>
       <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     

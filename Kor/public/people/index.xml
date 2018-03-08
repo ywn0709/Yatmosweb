@@ -2,40 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on Dep. of Atmos. Sci.</title>
-    <link>http://web.yonsei.ac.kr/atmoseng/people/</link>
+    <link>http://web.yonsei.ac.kr/atmoskor/people/</link>
     <description>Recent content in People on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Mar 2018 18:02:12 +0900</lastBuildDate>
     
-	<atom:link href="http://web.yonsei.ac.kr/atmoseng/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hajoon Song</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</link>
+      <title>Students</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/students/</link>
+      <pubDate>Sat, 03 Mar 2018 18:02:12 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/students/</guid>
+      <description>Doctoral students
+Master students</description>
+    </item>
+    
+    <item>
+      <title>Researcher</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/researcher/</link>
+      <pubDate>Mon, 18 Dec 2017 12:43:21 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/researcher/</guid>
+      <description>Name of researchers
+go here</description>
+    </item>
+    
+    <item>
+      <title>Faculty</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/faculty/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/faculty/</guid>
+      <description>   Name title link     Yign Noh Professor GFDL   Hajoon Song Assistant Professor GFDL    </description>
+    </item>
+    
+    <item>
+      <title>Hajoon Song</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</guid>
       <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
     <item>
       <title>Yeon Ju, Choi</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi/</guid>
       <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
     <item>
       <title>Yign Noh</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</guid>
       <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     

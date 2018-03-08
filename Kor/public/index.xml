@@ -2,40 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dep. of Atmos. Sci.</title>
-    <link>http://web.yonsei.ac.kr/atmoseng/</link>
+    <link>http://web.yonsei.ac.kr/atmoskor/</link>
     <description>Recent content on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Dec 2017 14:08:33 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 03 Mar 2018 18:02:12 +0900</lastBuildDate>
     
-	<atom:link href="http://web.yonsei.ac.kr/atmoseng/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Students</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/students/</link>
+      <pubDate>Sat, 03 Mar 2018 18:02:12 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/students/</guid>
+      <description>Doctoral students
+Master students</description>
+    </item>
+    
+    <item>
       <title>GFDL</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/research/gfdl/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:33 -0500</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/research/gfdl/</guid>
       <description> We study an Ocean mixed layer and an Atmospheric boundary layer using the Parallel LES Model (PALM). And we study about the effects of ocean on the climate change using the ocean model. </description>
     </item>
     
     <item>
       <title>Cloud Physics Laboratory</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/research/cloudphysics/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/research/cloudphysics/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/research/cloudphysics/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/research/cloudphysics/</guid>
       <description>In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions. Also investigated are the implications of these properties on cloud and precipitation developments and aerosol direct and indirect effects using a convective cloud model, an LES cloud model and a mesoscale model. Main areas of interest include warm rain initiation problem, aerosol direct and indirect effects, CCN-precipitation efficiency relationships, cloud seeding, and fog microphysical processes.</description>
     </item>
     
     <item>
       <title>Graduate</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/education/graduate/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/graduate/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/education/graduate/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/graduate/</guid>
       <description>Admissions Please visit the offical admissions for graduates course
 Courses ATM6101 ATMOSPHERIC RADIATION 1 radiation law. solar and terrestrial radiation. radiative process in the atmosphere. principle of remote sensing.
 ATM6102 CLOUD AND PRECIPITATION PROCESSES structure and patterns of cloud, cloud microphysics and precipitation mechanism, artificial rain
@@ -45,21 +55,31 @@ ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</
     
     <item>
       <title>Undergraduate</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/education/undergraduate/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/education/undergraduate/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</guid>
       <description>Admissions Please visit the offical admissions for undergraduates course
 Courses ATM1001 Global Environment and Atmospheric Sciences Scientific understanding of global environmental problems such as global warming, destruction of the ozone layer, air pollution, desertification, El Nino/ La Nino severe weather, etc. and related research areas and methodologies in atmospheric sciences.
 ATM2101 Climate and Global Change Understanding global-scale changes such as global warming, destruction of the ozone layer, desertification in terms of climate system including the atmosphere, oceans and terrestrial ecosystems.</description>
     </item>
     
     <item>
+      <title>Researcher</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/researcher/</link>
+      <pubDate>Mon, 18 Dec 2017 12:43:21 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/researcher/</guid>
+      <description>Name of researchers
+go here</description>
+    </item>
+    
+    <item>
       <title>Migrate from Jekyll</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/migrate-from-jekyll/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/migrate-from-jekyll/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -67,39 +87,48 @@ ATM2101 Climate and Global Change Understanding global-scale changes such as glo
     
     <item>
       <title>Linked post</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/02/linked-post/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/02/linked-post/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
       <title>Go is for lovers</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/09/17/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
-      <title>Hajoon Song</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</link>
+      <title>Faculty</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/faculty/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/faculty/</guid>
+      <description>   Name title link     Yign Noh Professor GFDL   Hajoon Song Assistant Professor GFDL    </description>
+    </item>
+    
+    <item>
+      <title>Hajoon Song</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</guid>
       <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/08/03/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -110,67 +139,67 @@ Follow the following steps:
     
     <item>
       <title>Yeon Ju, Choi</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi/</guid>
       <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
     <item>
       <title>Yign Noh</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</guid>
       <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
     <item>
       <title>Creating a new theme</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/about/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/about/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/about/</guid>
       <description>1. Overview Atmospheric Sciences present the challenges of a wide variety of problems of compelling scientific interest and increasing social relevance. This is exemplified by the current concern over Planet Earth and Global Change, including issues regarding the demand for reliable weather forecast, climate change, the ozone layer, the attempt to control air pollution, precipitation enhancement against water shortage the management of our limited natural resources, and the expanding frontiers to ocean, arctics, and space.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/contact/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/contact/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/contact/</guid>
       <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
 Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/faq/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/faq/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/labs/</link>
+      <link>http://web.yonsei.ac.kr/atmoskor/labs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/labs/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoskor/labs/</guid>
       <description>Cloud Pysics Laboratory (http://cloud.yonsei.ac.kr) In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions. Also investigated are the implications of these properties on cloud and precipitation developments and aerosol direct and indirect effects using a convective cloud model, an LES cloud model and a mesoscale model. Main areas of interest include warm rain initiation problem, aerosol direct and indirect effects, CCN-precipitation efficiency relationships, cloud seeding, and fog microphysical processes.</description>
     </item>
     

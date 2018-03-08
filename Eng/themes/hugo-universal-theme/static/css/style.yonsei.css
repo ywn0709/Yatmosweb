@@ -909,6 +909,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .panel.sidebar-menu .panel-body {
   padding: 0;
+  font-size: 15px;
 }
 .panel.sidebar-menu .panel-body span.colour {
   display: inline-block;
@@ -2178,6 +2179,10 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #blog-post #post-content {
   margin-bottom: 20px;
+  font-size: 15px;
+}
+#blog-post #post-content .li{
+  font-size: 20px;
 }
 #blog-post .comment {
   margin-bottom: 25px;
