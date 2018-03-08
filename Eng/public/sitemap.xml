@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/education/seminar1/</loc>
+    <lastmod>2018-03-01T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</loc>
     <lastmod>2017-12-18T14:08:33-05:00</lastmod>
   </url>
@@ -25,6 +30,11 @@
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/education/undergraduate/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2017/03/06/your-content/</loc>
+    <lastmod>2017-03-06T21:27:05+00:00</lastmod>
   </url>
   
   <url>
@@ -183,6 +193,12 @@
   </url>
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/educations/seminar/</loc>
+    <lastmod>2018-03-01T14:08:23-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/teams/student/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
@@ -214,7 +230,7 @@
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-03-06T21:27:05+00:00</lastmod>
   </url>
   
 </urlset>
