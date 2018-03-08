@@ -20,27 +20,46 @@
 
                 <div class="row">
 
-                   <!-- *** LEFT COLUMN ***-->
-                    <div class="col-md-3">
-
-                        <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "sidebar.html" . }}
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
-                    </div>
-                    <!-- /.col-md-3 -->
-
-                    <!-- *** LEFT COLUMN END *** -->
-
-                    <!-- *** RIGHT COLUMN *** -->
-
+                    <!-- *** LEFT COLUMN ***-->
                     <div class="col-md-9" id="blog-post">
-
-                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
-
-                        <div id="post-content">
+                        <div class="row justify-content-md-center">
+                            <div class="col-md-7">
+                                <!--div class="heading">
+                                    <h3> About {{ .Title }} </h3>
+                                </div-->
+                                <table class="table table-borderless">
+                                    <tbody>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">Name :</td>
+                                          <td>{{ .Title }}</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">Title :</td>
+                                          <td>{{ .Params.job }}</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">Email :</td>
+                                          <td>{{ .Params.email }}</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">Telephone :</td>
+                                          <td>{{ .Params.phone }}</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">Room :</td>
+                                          <td>{{ .Params.room }}</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-5">
+                                <div class="image" style="width:100%; max-width:200px;"><a href="{{ .Permalink }}">
+                                    <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive img-circle"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+                        <div id="post-content" style="padding-left:50px;">
                           {{ .Content }}
                         </div>
                         <!-- /#post-content -->
@@ -53,8 +72,20 @@
                     </div>
                     <!-- /#blog-post -->
 
-                    <!-- *** RIGHT COLUMN END *** -->
+                    <!-- *** LEFT COLUMN END *** -->
+                    <!-- *** RIGHT COLUMN ***-->
+                    <div class="col-md-3">
 
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->  
                 </div>
                 <!-- /.row -->
 

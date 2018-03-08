@@ -99,7 +99,7 @@ div.section {
 .heading h4,
 .heading h5 {
   display: inline-block;
-  border-bottom: solid 5px #003876;
+  /*border-bottom: solid 2px #003876;*/
   line-height: 1.1;
   margin-bottom: 0;
   padding-bottom: 10px;
@@ -107,6 +107,16 @@ div.section {
   text-transform: uppercase;
   letter-spacing: 0.06em;
 }
+
+.heading h3:after {
+  content: " ";
+  display: block;
+  width: 100px;
+  height: 2px;
+  margin-top: .6rem;
+  background: #003876;
+}
+
 .heading h1 i.fa,
 .heading h2 i.fa,
 .heading h3 i.fa,
@@ -3555,4 +3565,29 @@ a.list-group-item.active > .badge,
 .yamm .dropdown.yamm-fw .dropdown-menu {
   left: 15px;
   right: 15px;
+}
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+}
+tbody td {
+    font-size: 120%;
+    font-weight: bold;
+}
+.image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
 }
