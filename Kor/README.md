@@ -1,1 +1,1 @@
-# This is the Korean version of the webpage.
+# This is the English version of the webpage.

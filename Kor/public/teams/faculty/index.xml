@@ -13,30 +13,21 @@
     
     
     <item>
-      <title>Faculty</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/faculty/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/faculty/</guid>
-      <description>   Name title link     Yign Noh Professor GFDL   Hajoon Song Assistant Professor GFDL    </description>
-    </item>
-    
-    <item>
       <title>Hajoon Song</title>
       <link>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</guid>
-      <description>   Name title link     Yign Noh Professor GFDL   Hajoon Song Assistant Professor GFDL    </description>
+      <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
     <item>
-      <title>Hajoon Song</title>
+      <title>Yign Noh</title>
       <link>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</guid>
-      <description>   Name title link     Yign Noh Professor GFDL   Hajoon Song Assistant Professor GFDL    </description>
+      <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
   </channel>

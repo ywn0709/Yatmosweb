@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/people/students/</loc>
-    <lastmod>2018-03-03T18:02:12+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</loc>
     <lastmod>2017-12-18T14:08:33-05:00</lastmod>
   </url>
@@ -18,18 +13,13 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/education/undergraduate/</loc>
-    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/education/graduate/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/people/researcher/</loc>
-    <lastmod>2017-12-18T12:43:21-05:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/education/undergraduate/</loc>
+    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
   </url>
   
   <url>
@@ -48,22 +38,22 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/people/faculty/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
@@ -94,7 +84,7 @@
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/</loc>
-    <lastmod>2018-03-03T18:02:12+09:00</lastmod>
+    <lastmod>2017-12-18T14:08:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,14 +109,14 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/go/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/categories/go/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,14 +133,14 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,7 +152,7 @@
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/people/</loc>
-    <lastmod>2018-03-03T18:02:12+09:00</lastmod>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -176,20 +166,14 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/teams/researcher/</loc>
-    <lastmod>2017-12-18T12:43:21-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/research/</loc>
     <lastmod>2017-12-18T14:08:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/teams/students/</loc>
-    <lastmod>2018-03-03T18:02:12+09:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/teams/student/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   

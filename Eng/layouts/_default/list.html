@@ -42,11 +42,12 @@
                         {{ range $paginator.Pages }}
                             <div class="col-md-3 col-sm-3">
                                 <div class="team-member">
-                                    <div class="img-responsive center-block" style="width:100%; max-width:250px;"><a href="{{ .Permalink }}">
-                                        <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive img-circle"></a>
+                                    <div class="image center-block" style="max-width:200px"><a href="{{ .Permalink }}">
+                                    <!--div class="image" style="width:100%; max-height:200px; max-width:200px;"><a href="{{ .Permalink }}"-->
+                                        <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive"></a>
                                     </div>
                                     <h3><a href="team-member.html">{{ .Title }}</a></h3>
-                                    <p class="role">{{ .Params.teams }}</p>
+                                    <p class="role">{{ .Params.job }}</p>
                                 </div>
                             </div>
                         {{ end }}

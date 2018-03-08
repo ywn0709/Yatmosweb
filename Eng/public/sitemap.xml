@@ -43,12 +43,12 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/people/yonjuchoi/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
@@ -109,14 +109,14 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/go/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/categories/go/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,14 +133,14 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -168,6 +168,12 @@
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/research/</loc>
     <lastmod>2017-12-18T14:08:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/teams/student/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,11 +1,11 @@
 +++
-title = "Hajoon Song"
+title = "Yeon Ju, Choi"
 date = "2015-08-03T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["student"]
 banner = "img/people/HajoonSong.png"
-email = "hajsong@yonsei.ac.kr"
-job = "Assistant Professor"
-phone = "+82-2-2123-2579"
+email = " ywn0709@yonsei.ac.kr"
+job = "Master student"
+phone = "+82-2-2123-2690"
 room = "Science BLDG 544"
 +++
 

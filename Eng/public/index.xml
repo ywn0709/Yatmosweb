@@ -95,15 +95,6 @@ This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
-      <title>Hajoon Song</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/yonjuchoi/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/yonjuchoi/</guid>
-      <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
-    </item>
-    
-    <item>
       <title>Hugo is for lovers</title>
       <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
@@ -115,6 +106,15 @@ More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Yeon Ju, Choi</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</guid>
+      <description> Research interest  Air-sea interactions Carbon cycle Data assimilation  Education  UCSD Yonsei University  Publication  THIS That Something else  </description>
     </item>
     
     <item>

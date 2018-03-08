@@ -3,11 +3,24 @@ title = "Hajoon Song"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/HajoonSong.png"
+email = "hajsong@yonsei.ac.kr"
+job = "Assistant Professor"
+phone = "+82-2-2123-2579"
+room = "Science BLDG 544"
 +++
 
+#### Research interest
++ Air-sea interactions
++ Carbon cycle
++ Data assimilation
 
-|       Name    |      title          |      link     |
-|---------------|---------------------|---------------|
-|  Yign Noh     |     Professor       | GFDL          |
-|  Hajoon Song  | Assistant Professor | GFDL          |
+#### Education
++ **UCSD**
++ **Yonsei University**
+
+#### Publication
++ THIS
++ That
++ Something else
+
 

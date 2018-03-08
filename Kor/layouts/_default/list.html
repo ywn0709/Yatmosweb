@@ -18,8 +18,8 @@
         <div id="content">
             <div class="container">
                 <div class="row">
-                   <!-- *** LEFT COLUMN ***-->
 
+                    <!-- *** LEFT COLUMN *** -->
                     <div class="col-md-3">
 
                         <!-- *** MENUS AND WIDGETS *** -->
@@ -29,10 +29,10 @@
                         <!-- *** MENUS AND FILTERS END *** -->
                     </div>
                     <!-- /.col-md-3 -->
-
                     <!-- *** LEFT COLUMN END *** -->
 
                     <!-- *** RIGHT COLUMN *** -->
+
                     <div class="col-md-9" id="blog-listing-medium">
                         {{ if or (isset .Params "teams") (eq .Type "teams") }}
                         <section class="post">
@@ -42,10 +42,12 @@
                         {{ range $paginator.Pages }}
                             <div class="col-md-3 col-sm-3">
                                 <div class="team-member">
-                                    <div class="image"><a href="{{ .Permalink }}">
-                                        <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-fluid rounded-circle"></a></div>
-                                    <h3><a href="team-member.html">Luke Skywalker</a></h3>
-                                    <p class="role">CTO</p>
+                                    <div class="image center-block" style="max-width:200px"><a href="{{ .Permalink }}">
+                                    <!--div class="image" style="width:100%; max-height:200px; max-width:200px;"><a href="{{ .Permalink }}"-->
+                                        <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive"></a>
+                                    </div>
+                                    <h3><a href="team-member.html">{{ .Title }}</a></h3>
+                                    <p class="role">{{ .Params.job }}</p>
                                 </div>
                             </div>
                         {{ end }}
@@ -109,7 +111,6 @@
                         </ul>
                     </div>
                     <!-- *** RIGHT COLUMN END *** -->
-
                 </div>
                 <!-- /.row -->
             </div>

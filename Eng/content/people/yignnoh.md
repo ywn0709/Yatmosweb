@@ -2,10 +2,10 @@
 title = "Yign Noh"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["faculty"]
-banner = "img/people/Noh.jpg"
-email = "hajsong@yonsei.ac.kr"
-job = "Assistant Professor"
-phone = "+82-2-2123-2579"
+banner = "img/people/Noh_crop.jpg"
+email = " noh@yonsei.ac.kr"
+job = "Professor"
+phone = "+82-2-2123-2690"
 room = "Science BLDG 544"
 +++
 
