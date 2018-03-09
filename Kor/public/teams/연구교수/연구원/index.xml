@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>연구교수/연구원 on 대기과학과</title>
+    <link>http://web.yonsei.ac.kr/atmoskor/teams/%EC%97%B0%EA%B5%AC%EA%B5%90%EC%88%98/%EC%97%B0%EA%B5%AC%EC%9B%90/</link>
+    <description>Recent content in 연구교수/연구원 on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2017 12:43:21 -0500</lastBuildDate>
+    
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/teams/%EC%97%B0%EA%B5%AC%EA%B5%90%EC%88%98/%EC%97%B0%EA%B5%AC%EC%9B%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>연구교수/연구원</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/researcher/</link>
+      <pubDate>Mon, 18 Dec 2017 12:43:21 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/researcher/</guid>
+      <description>Name of researchers
+go here</description>
+    </item>
+    
+  </channel>
+</rss>

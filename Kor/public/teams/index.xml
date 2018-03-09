@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on 대기과학과</title>
+    <link>http://web.yonsei.ac.kr/atmoskor/teams/</link>
+    <description>Recent content in Teams on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/teams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>교수진</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/teams/%EA%B5%90%EC%88%98%EC%A7%84/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/teams/%EA%B5%90%EC%88%98%EC%A7%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>연구교수/연구원</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/teams/%EC%97%B0%EA%B5%AC%EA%B5%90%EC%88%98/%EC%97%B0%EA%B5%AC%EC%9B%90/</link>
+      <pubDate>Mon, 18 Dec 2017 12:43:21 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/teams/%EC%97%B0%EA%B5%AC%EA%B5%90%EC%88%98/%EC%97%B0%EA%B5%AC%EC%9B%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>졸업생</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/teams/%EC%A1%B8%EC%97%85%EC%83%9D/</link>
+      <pubDate>Sat, 03 Mar 2018 18:02:12 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/teams/%EC%A1%B8%EC%97%85%EC%83%9D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>학생</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/teams/%ED%95%99%EC%83%9D/</link>
+      <pubDate>Sat, 03 Mar 2018 18:02:12 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/teams/%ED%95%99%EC%83%9D/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
