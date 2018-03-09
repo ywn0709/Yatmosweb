@@ -7,7 +7,7 @@ educations: ["학부"]
 banner: "img/banners/banner-1.jpg"
 ---
 
-## Admissions
+## 입학안내
 Please visit the offical admissions for undergraduates course
 
 ## 개설과목(학부)

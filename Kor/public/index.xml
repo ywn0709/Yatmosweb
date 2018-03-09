@@ -6,7 +6,6 @@
     <description>Recent content on 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved.</copyright>
     <lastBuildDate>Sat, 03 Mar 2018 18:02:12 +0900</lastBuildDate>
     
 	<atom:link href="http://web.yonsei.ac.kr/atmoskor/index.xml" rel="self" type="application/rss+xml" />
@@ -227,27 +226,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/people/hyunmeekim/</guid>
-      <description> +++
-title = &amp;ldquo;김현미&amp;rdquo;
-date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo;
-teams = [&amp;ldquo;교수진&amp;rdquo;]
-banner = &amp;ldquo;img/people/김현미교수님&amp;rdquo;
-email = &amp;ldquo;khm@yonsei.ac.kr&amp;rdquo;
-job = &amp;ldquo;정교수&amp;rdquo;
-phone = &amp;ldquo;02-2123-5683&amp;rdquo;
-room = &amp;ldquo;대기예측성 및 자료동화 연구실 / 과학관 541호&amp;rdquo;
-+++
-연구분야  자료동화
- 예측가능성
- 최적관측
- 종관규모 및 대규모역학
-  담당과목  자료동화
- 대기역학
- 예측가능성론
-  논문  THIS
- That
- Something else
-  </description>
+      <description>+++ title = &amp;ldquo;김현미&amp;rdquo; date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo; teams = [&amp;ldquo;교수진&amp;rdquo;] banner = &amp;ldquo;img/people/김현미교수님</description>
     </item>
     
     <item>
@@ -256,22 +235,7 @@ room = &amp;ldquo;대기예측성 및 자료동화 연구실 / 과학관 541호&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/people/jeongwookim/</guid>
-      <description> +++
-title = &amp;ldquo;김정우&amp;rdquo;
-date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo;
-teams = [&amp;ldquo;교수진&amp;rdquo;]
-banner = &amp;ldquo;img/people/김정우교수님.jpg&amp;rdquo;
-email = &amp;ldquo;j-wkim@yonsei.ac.kr &amp;ldquo;
-job = &amp;ldquo;퇴임교수&amp;rdquo;
-phone = &amp;ldquo;02-2123-2683&amp;rdquo;
-room = &amp;ldquo;기후시스템 연구실 / 과학관 537호&amp;rdquo;
-+++
-연구분야  대기역학
- 기후역학
-  담당과목 논문  THIS
- That
- Something else
-  </description>
+      <description>+++ title = &amp;ldquo;김정우&amp;rdquo; date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo; teams = [&amp;ldquo;교수진&amp;rdquo;] banner = &amp;ldquo;img/people/김정우교수님</description>
     </item>
     
     <item>
@@ -280,26 +244,7 @@ room = &amp;ldquo;기후시스템 연구실 / 과학관 537호&amp;rdquo;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/people/jhoonkim/</guid>
-      <description> +++
-title = &amp;ldquo;김준&amp;rdquo;
-date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo;
-teams = [&amp;ldquo;교수진&amp;rdquo;]
-banner = &amp;ldquo;img/people/김준교수님.jpg&amp;rdquo;
-email = &amp;ldquo;jkim2@yonsei.ac.kr&amp;rdquo;
-job = &amp;ldquo;정교수&amp;rdquo;
-phone = &amp;ldquo;02-2123-5682&amp;rdquo;
-room = &amp;ldquo;대기복사 연구실 / 과학관 545호&amp;rdquo;
-+++
-연구분야  대기복사
- 환경 위성원격탐사
- 에어러솔 측정 및 분석
-  담당과목  대기물리
- 대기복사론
- 환경원격탐사론
-  논문  THIS
- That
- Something else
-  </description>
+      <description>+++ title = &amp;ldquo;김준&amp;rdquo; date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo; teams = [&amp;ldquo;교수진&amp;rdquo;] banner = &amp;ldquo;img/people/김준교수님.j</description>
     </item>
     
     <item>
@@ -308,18 +253,7 @@ room = &amp;ldquo;대기복사 연구실 / 과학관 545호&amp;rdquo;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/people/sanghunpark/</guid>
-      <description> +++
-title = &amp;ldquo;박상훈&amp;rdquo;
-date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo;
-teams = [&amp;ldquo;교수진&amp;rdquo;]
-banner = &amp;ldquo;img/people/박상훈교수님.jpg&amp;rdquo;
-email = &amp;ldquo;pshun@yonsei.ac.kr&amp;rdquo;
-job = &amp;ldquo;조교수&amp;rdquo;
-phone = &amp;ldquo;02-2123-5686&amp;rdquo;
-room = &amp;ldquo;~~~~ 연구실 / 과학관 ~~~호&amp;rdquo;
-+++
-연구분야      담당과목     논문    Something else
-  </description>
+      <description>+++ title = &amp;ldquo;박상훈&amp;rdquo; date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo; teams = [&amp;ldquo;교수진&amp;rdquo;] banner = &amp;ldquo;img/people/박상훈교수님</description>
     </item>
     
     <item>
@@ -328,27 +262,7 @@ room = &amp;ldquo;~~~~ 연구실 / 과학관 ~~~호&amp;rdquo;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</guid>
-      <description> +++
-title = &amp;ldquo;노의근&amp;rdquo;
-date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo;
-teams = [&amp;ldquo;교수진&amp;rdquo;]
-banner = &amp;ldquo;img/people/노의근교수님.jpg&amp;rdquo;
-email = &amp;ldquo; noh@yonsei.ac.kr&amp;rdquo;
-job = &amp;ldquo;정교수&amp;rdquo;
-phone = &amp;ldquo;02-2123-2690&amp;rdquo;
-room = &amp;ldquo;지구물리 유체역학 연구실 / 과학관 540호&amp;rdquo;
-+++
-연구분야  난류
- 유체역학
- 해양물리
- 미기상학
-  담당과목  유체역학
- 전산유체역학
- 미기상학
-  논문  THIS
- That
- Something else
-  </description>
+      <description>+++ title = &amp;ldquo;노의근&amp;rdquo; date = &amp;ldquo;2015-08-03T13:39:46+02:00&amp;rdquo; teams = [&amp;ldquo;교수진&amp;rdquo;] banner = &amp;ldquo;img/people/노의근교수님</description>
     </item>
     
     <item>
