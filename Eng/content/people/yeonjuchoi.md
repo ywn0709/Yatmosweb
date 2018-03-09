@@ -1,7 +1,6 @@
 +++
 title = "Yeon Ju, Choi"
 date = "2015-08-03T13:39:46+02:00"
-active = "people"
 teams = ["Student"]
 banner = "img/people/HajoonSong.png"
 email = " ywn0709@yonsei.ac.kr"
