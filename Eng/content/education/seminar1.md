@@ -3,6 +3,7 @@ title: "Seminar 1"
 date: 2018-03-01T14:08:23-05:00
 type: education
 layout: single
+active: education
 educations: ["seminar"]
 banner: "img/banners/banner-1.jpg"
 ---

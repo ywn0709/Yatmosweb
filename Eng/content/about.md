@@ -1,6 +1,7 @@
 +++
 title = "About"
 id = "contact"
+type = "about"
 +++
 
 ## 1. Overview
@@ -22,3 +23,5 @@ Atmospheric science is now recognized as the scientific discipline that can prov
 The origin of the Department of Atmospheric Sciences at Yonsei University was first established in 1968 as the Department of Astronomy and Meteorology.
 In 1998 the atmospheric science fields were separated to establish the current department. Now 10 regular faculty members that cover all major fields of atmospheric sciences work hard in education and research in collaboration with other research staffs and also play a major role in domestic and international activities in atmospheric science related fields.
 Alumni of the Department of Atmospheric Sciences at Yonsei University are working at Korea Meteorological Administration and other government organizations, various research institutes and universities around the world, high schools, weather related industries, broadcasting companies, and many others.
+
+<a id="bottom"></a>

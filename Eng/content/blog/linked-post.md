@@ -1,6 +1,7 @@
 +++
 title = "Linked post"
 date = "2015-10-02T21:49:20+02:00"
+active = "blog"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["go"]
 banner = "img/banners/banner-4.jpg"

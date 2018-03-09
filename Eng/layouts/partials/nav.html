@@ -20,9 +20,9 @@
 
             <div class="navbar-collapse collapse" id="navigation">
                 <ul class="nav navbar-nav navbar-right">
-                  {{ $url := .URL }}
+                  {{ $url := .Type }}
                   {{ range .Site.Menus.main }}
-                  <li class="{{ if eq $url .URL }}active{{ end }} {{ if .HasChildren }}dropdown{{ end }}">
+                  <li class="{{ if in .URL $url }}active{{ end }} {{ if .HasChildren }}dropdown{{ end }}">
                     {{ if .HasChildren }}
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
                     <ul class="dropdown-menu">

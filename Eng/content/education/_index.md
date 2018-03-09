@@ -1,6 +1,7 @@
 +++
 title = "Education"
 educations = []
+active = "education"
 +++
 
 
