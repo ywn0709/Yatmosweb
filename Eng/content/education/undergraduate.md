@@ -3,6 +3,7 @@ title: "Undergraduate"
 date: 2017-12-18T14:08:23-05:00
 type: education
 layout: single 
+active: education
 educations: ["Undergraduate"]
 banner: "img/banners/banner-1.jpg"
 ---

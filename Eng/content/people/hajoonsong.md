@@ -2,6 +2,7 @@
 title = "Hajoon Song"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["Faculty"]
+active = "people"
 banner = "img/people/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
 job = "Assistant Professor"

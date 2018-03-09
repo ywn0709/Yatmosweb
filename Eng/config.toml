@@ -52,7 +52,7 @@ paginate = 5
 
 [[menu.main]]
     name = "Research"
-    url  = "/labs/"
+    url  = "/research/"
     weight = 1.5
 
 [[menu.main]]

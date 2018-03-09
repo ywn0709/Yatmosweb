@@ -40,19 +40,19 @@ ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</
     
     <item>
       <title>GFDL</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</link>
+      <link>http://web.yonsei.ac.kr/atmoseng/labs/gfdl/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:33 -0500</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoseng/labs/gfdl/</guid>
       <description> We study an Ocean mixed layer and an Atmospheric boundary layer using the Parallel LES Model (PALM). And we study about the effects of ocean on the climate change using the ocean model. </description>
     </item>
     
     <item>
       <title>Cloud Physics Laboratory</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/research/cloudphysics/</link>
+      <link>http://web.yonsei.ac.kr/atmoseng/labs/cloudphysics/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/research/cloudphysics/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoseng/labs/cloudphysics/</guid>
       <description>In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions. Also investigated are the implications of these properties on cloud and precipitation developments and aerosol direct and indirect effects using a convective cloud model, an LES cloud model and a mesoscale model. Main areas of interest include warm rain initiation problem, aerosol direct and indirect effects, CCN-precipitation efficiency relationships, cloud seeding, and fog microphysical processes.</description>
     </item>
     
@@ -78,15 +78,6 @@ ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</
       <description>Admissions Please visit the offical admissions for undergraduates course
 Courses ATM1001 Global Environment and Atmospheric Sciences Scientific understanding of global environmental problems such as global warming, destruction of the ozone layer, air pollution, desertification, El Nino/ La Nino severe weather, etc. and related research areas and methodologies in atmospheric sciences.
 ATM2101 Climate and Global Change Understanding global-scale changes such as global warming, destruction of the ozone layer, desertification in terms of climate system including the atmosphere, oceans and terrestrial ecosystems.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2017/03/06/your-content/</link>
-      <pubDate>Mon, 06 Mar 2017 21:27:05 +0000</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2017/03/06/your-content/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -202,10 +193,10 @@ Please feel free to contact us, our customer service center is working for you 2
     
     <item>
       <title>Research</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/labs/</link>
+      <link>http://web.yonsei.ac.kr/atmoseng/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/labs/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoseng/research/</guid>
       <description>Cloud Pysics Laboratory (http://cloud.yonsei.ac.kr) In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions. Also investigated are the implications of these properties on cloud and precipitation developments and aerosol direct and indirect effects using a convective cloud model, an LES cloud model and a mesoscale model. Main areas of interest include warm rain initiation problem, aerosol direct and indirect effects, CCN-precipitation efficiency relationships, cloud seeding, and fog microphysical processes.</description>
     </item>
     

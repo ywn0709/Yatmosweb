@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/research/gfdl/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoseng/labs/gfdl/</loc>
     <lastmod>2017-12-18T14:08:33-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/research/cloudphysics/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoseng/labs/cloudphysics/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
   </url>
   
@@ -30,11 +30,6 @@
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/education/undergraduate/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2017/03/06/your-content/</loc>
-    <lastmod>2017-03-06T21:27:05+00:00</lastmod>
   </url>
   
   <url>
@@ -166,6 +161,12 @@
   </url>
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/labs/</loc>
+    <lastmod>2017-12-18T14:08:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/people/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
@@ -177,13 +178,7 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/labs/</loc>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/research/</loc>
-    <lastmod>2017-12-18T14:08:33-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -230,7 +225,7 @@
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/blog/</loc>
-    <lastmod>2017-03-06T21:27:05+00:00</lastmod>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
 </urlset>
