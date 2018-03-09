@@ -53,7 +53,7 @@ paginate = 5
 
 [[menu.main]]
     name = "연구활동"
-    url  = "/labs/"
+    url  = "/research/"
     weight = 2
 
 [[menu.main]]

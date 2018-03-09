@@ -1,6 +1,7 @@
 +++
 title = "학과소개"
 id = "contact"
+type = "about"
 images = "img/banners/학과소개.jpg"
 +++
 

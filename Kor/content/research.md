@@ -1,6 +1,7 @@
 +++
 title = "연구활동"
 description = "Laboratory"
+type = "research"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
