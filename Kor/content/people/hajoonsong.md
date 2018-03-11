@@ -2,7 +2,7 @@
 title = "송하준"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["교수진"]
-banner = "img/people/송하준교수님.png"
+banner = "img/people/hajoonsong.png"
 email = "hajsong@yonsei.ac.kr"
 job = "조교수"
 phone = "02-2123-2579"

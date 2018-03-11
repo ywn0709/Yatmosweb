@@ -11,7 +11,7 @@ googleAnalytics = ""
 
 hasCJKLanguage = true
 # Define the number of posts per page
-paginate = 5
+paginate = 12
 
 [menu]
 
