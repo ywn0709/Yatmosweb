@@ -42,11 +42,12 @@
                         {{ range $paginator.Pages }}
                             <div class="col-md-3 col-sm-3">
                                 <div class="team-member">
-                                    <div class="image center-block" style="max-width:200px"><a href="{{ .Permalink }}">
+                                    <div class="image center-block" style="width:100%; max-height:200px; max-width:200px;">
+                                        <a href="{{ .Permalink }}">
                                     <!--div class="image" style="width:100%; max-height:200px; max-width:200px;"><a href="{{ .Permalink }}"-->
                                         <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive"></a>
                                     </div>
-                                    <h3><a href="team-member.html">{{ .Title }}</a></h3>
+                                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                     <p class="role">{{ .Params.job }}</p>
                                 </div>
                             </div>
@@ -98,13 +99,13 @@
 
                         <ul class="pager">
                             {{ if .Paginator.HasPrev }}
-                            <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; {{ i18n "newer" }}</a></li>
+                            <li class="previous"><a href="{{ .Site.BaseURL }}{{ ".." }}{{ .Paginator.Prev.URL }}">&larr; {{ i18n "newer" }}</a></li>
                             {{ else }}
                             <li class="previous disabled"><a href="#">&larr; {{ i18n "newer" }}</a></li>
                             {{ end }}
 
                             {{ if .Paginator.HasNext }}
-                            <li class="next"><a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">{{ i18n "older" }} &rarr;</a></li>
+                            <li class="next"><a href="{{ .Site.BaseURL }}{{ ".." }}{{ .Paginator.Next.URL }}">{{ i18n "older" }} &rarr;</a></li>
                             {{ else }}
                             <li class="next disabled"><a href="#">{{ i18n "older" }} &rarr;</a></li>
                             {{ end }}

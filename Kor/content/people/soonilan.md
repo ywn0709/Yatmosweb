@@ -1,8 +1,8 @@
-+++
++++ 
 title = "안순일"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["교수진"]
-banner = "img/people/안순일교수님.jpg"
+banner = "img/people/soonilan.jpg"
 email = "sian@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5684"
@@ -24,5 +24,3 @@ room = "기후이론 연구실 / 과학관 538호"
 + THIS
 + That
 + Something else
-
-
