@@ -134,14 +134,14 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/categories/go/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/go/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -158,14 +158,14 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -190,10 +190,6 @@
     <loc>http://web.yonsei.ac.kr/atmoseng/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/labs/</loc>
   </url>
   
   <url>
