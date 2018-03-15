@@ -87,6 +87,9 @@
                                           {{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>
                                           {{ end }}
                                         </p>
+                                        <p class="date-comments">
+                                            <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format .Site.Params.date_format }}</a>
+                                        </p>
                                     </div>
                                     <p class="intro">{{ .Summary }}</p>
                                     <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
@@ -103,8 +106,19 @@
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
-                                <div class="col-md-12">
-                                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="{{ .Permalink }}">
+                                          {{ if .Params.banner }}
+                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
+                                          {{ else }}
+                                          <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                                          {{ end }}
+                                      </a>
+                                  </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
                                           {{ if isset .Params "author" }}
@@ -120,6 +134,7 @@
                                             <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format .Site.Params.date_format }}</a>
                                         </p>
                                     </div>
+                                    <p class="intro">{{ .Summary }}</p>
                                     <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
                                     </p>
                                 </div>
