@@ -20,6 +20,10 @@ web = "https://hajsong.github.io"
 + **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
+#### Courses
++ Air-sea interactions
++ Ocean modeling
+
 #### Selected Publications
 + Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens, M. R. Landry, 2017: Mesoscale ocean fronts enhance carbon export due to gravitational sinking and subduction. PNAS, 114, 1252-1257.
 + Mattern, J. P., H. Song, C. A. Edwards, A. M. Moore and J. Fiechter, 2017: Data assimilation of physical and chlorophyll observations in the California Current System using two biogeochemical models. Ocean Model., 109, 55-71.
