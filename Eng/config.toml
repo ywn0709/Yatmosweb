@@ -176,7 +176,7 @@ paginate = 12
     icon = "fa fa-paper-plane"
     title = "Apply"
     subtitle = "Check out our education program."
-    link_url = "#"
+    link_url = "education"
     link_text = "Check other homepages"
 
 [params.clients]
