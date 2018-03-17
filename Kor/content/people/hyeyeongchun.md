@@ -2,7 +2,7 @@
 title = "전혜영"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["교수진"]
-banner = "img/people/hyeyoungchun.jpg"
+banner = "img/people/hyeyeongchun.jpg"
 email = " chunhy@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-2692"
@@ -20,8 +20,6 @@ room = "대기역학 연구실 / 과학관 543호"
 + 중규모기상학
 
 #### 논문
-+ THIS
-+ That
-+ Something else
-
-
++ Publicaiton 1
++ Publication 2
++ Publication 3

@@ -2,7 +2,7 @@
 title = "김현미"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["교수진"]
-banner = "img/people/hyunmikim.jpg"
+banner = "img/people/hyunmeekim.jpg"
 email = "khm@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5683"
@@ -21,8 +21,6 @@ room = "대기예측성 및 자료동화 연구실 / 과학관 541호"
 + 예측가능성론
 
 #### 논문
-+ THIS
-+ That
-+ Something else
-
-
++ Publicaiton 1
++ Publication 2
++ Publication 3

@@ -21,6 +21,5 @@ room = "기후이론 연구실 / 과학관 538호"
 + 해양-대기 상호작용
 
 #### 논문
-+ THIS
-+ That
-+ Something else
++ Publicaiton 1
++ Publication 2

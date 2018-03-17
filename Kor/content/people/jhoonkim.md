@@ -20,6 +20,6 @@ room = "대기복사 연구실 / 과학관 545호"
 + 환경원격탐사론
 
 #### 논문
-+ THIS
-+ That
-+ Something else
++ Publicaiton 1
++ Publication 2
++ Publication 3

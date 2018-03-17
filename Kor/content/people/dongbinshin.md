@@ -19,8 +19,8 @@ room = "위성관측 연구실 / 과학관 546호"
 + 마이크로파복사 및 원격탐사이론
 
 #### 논문
-+ THIS
-+ That
-+ Something else
++ Publicaiton 1
++ Publication 2
++ Publication 3
 
 

@@ -21,8 +21,7 @@ room = "수치모델링 연구실 / 과학관 544호"
 + 수치예보
 
 #### 논문
-+ THIS
-+ That
-+ Something else
++ Publicaiton 1
++ Publication 2
 
 
