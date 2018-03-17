@@ -803,7 +803,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 30px;
   margin-bottom: 0;
   position: relative;
-  background: url('../img/skybackground.jpg') center center repeat;
+  background: url('../img/apply.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1786,7 +1786,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
-  background: url('../img/skybackground.jpg') center top no-repeat;
+  background: url('../img/apply.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -3588,7 +3588,4 @@ tbody td {
   display: flex;
   display: -webkit-flex;
   flex-wrap: wrap;
-}
-.img-responsive.img-center {
-  margin: 0 auto;
 }

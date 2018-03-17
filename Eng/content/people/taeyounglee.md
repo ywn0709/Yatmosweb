@@ -1,25 +1,25 @@
 +++
-title = "Taeyoung Lee"
+title = "Tae-Young Lee"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["faculty"]
-banner = "img/people/HajoonSong.png"
+banner = "img/people/taeyounglee.jpg"
 email = "lty@yonsei.ac.kr"
 job = "Professor Emeritus"
 phone = "02-2123-2687"
 room = "Science Hall #539"
 +++
 
-#### 연구분야
-+ 중규모기상학
-+ 대기오염
-+ 대기모델링
+#### Research interests
++ Mesoscale Meteorology
++ Air Pollution Meteorology
++ Atmospheric Modeling
++ Numerical Weather Prediction
 
-#### 담당과목
-+ 대기분석
+#### Education
++ **Ph.D.** (1984) Oregon State University, Korea
 
-#### 논문
-+ THIS
-+ That
-+ Something else
+#### Professional Experience
 
-
+#### Selected Publications
++ Publication 1
++ Publication 2

@@ -17,12 +17,17 @@ web = "https://hajsong.github.io"
 + Data assimilation
 
 #### Education
-+ **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego
++ **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego, USA
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
+#### Research Experience
++ MIT, Cambridge, USA (2013-2018) 
++ University of California, Santa Cruz, USA (2011-2013)
++ Scripps Institution of Oceanography, La Jolla, USA (2005-2011)
+
 #### Courses
-+ Air-sea interactions
-+ Ocean modeling
++ [Air-sea interactions](https://hajsong.github.io/ATM2106)
++ [Ocean modeling](https://hajsong.github.io/ATM9107)
 
 #### Selected Publications
 + Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens, M. R. Landry, 2017: Mesoscale ocean fronts enhance carbon export due to gravitational sinking and subduction. PNAS, 114, 1252-1257.

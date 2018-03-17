@@ -22,5 +22,15 @@
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
+    <item>
+      <title>notice format</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/notice/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/notice/</guid>
+      <description>&lt;p&gt;This is summary.
+&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

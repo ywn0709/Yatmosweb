@@ -116,7 +116,7 @@ paginate = 12
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    # logo = "img/apple-touch-icon.png"
+    logo = "img/atmos_symbol_eng.jpg"
     address = """<p><strong>Department of Atmospheric Sciences</strong>
         <br><strong>Yonsei University</strong>
         <br>50 Yonsei-ro
@@ -190,7 +190,7 @@ paginate = 12
 [params.recent_posts]
     enable = true
     title = "News and Events"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = "Recent publications and researches."
 
 [taxonomies]
     tag = "tags"

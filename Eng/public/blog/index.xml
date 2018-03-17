@@ -6,10 +6,19 @@
     <description>Recent content in news on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Mar 2018 18:04:13 +0900</lastBuildDate>
     
 	<atom:link href="http://web.yonsei.ac.kr/atmoseng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seminar_kaplan</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/blog/2018/03/17/seminar_kaplan/</link>
+      <pubDate>Sat, 17 Mar 2018 18:04:13 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2018/03/17/seminar_kaplan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>
@@ -20,6 +29,16 @@
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>notice format</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/notice/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/notice/</guid>
+      <description>&lt;p&gt;This is summary.
+&lt;/p&gt;</description>
     </item>
     
     <item>

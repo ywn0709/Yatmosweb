@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2018/03/17/seminar_kaplan/</loc>
+    <lastmod>2018-03-17T18:04:13+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/education/scholarship/</loc>
     <lastmod>2018-03-01T14:08:23-05:00</lastmod>
   </url>
@@ -38,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/notice/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
@@ -58,11 +68,6 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/people/hikucho/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
@@ -78,6 +83,11 @@
   </url>
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/jeongwookim/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/people/jhoonkim/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
@@ -88,7 +98,7 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoseng/people/jeongwookim/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoseng/people/hikucho/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
@@ -159,7 +169,7 @@
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/</loc>
-    <lastmod>2018-03-01T14:08:23-05:00</lastmod>
+    <lastmod>2018-03-17T18:04:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -259,6 +269,12 @@
   </url>
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoseng/categories/seminar/</loc>
+    <lastmod>2018-03-17T18:04:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/teams/student/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
@@ -290,7 +306,7 @@
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoseng/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2018-03-17T18:04:13+09:00</lastmod>
   </url>
   
 </urlset>

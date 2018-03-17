@@ -2,20 +2,16 @@
 title = "Seungman Lee"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["faculty"]
-banner = "img/people/HajoonSong.png"
+banner = "img/people/seungmanlee.jpg"
 email = ""
 job = "Professor Emeritus"
 phone = ""
 room = ""
 +++
 
-#### 연구분야
+#### Research interests
 
-#### 담당과목
+#### Education
++ **Ph.D.**
 
-#### 논문
-+ THIS
-+ That
-+ Something else
-
-
+#### Professional Experience

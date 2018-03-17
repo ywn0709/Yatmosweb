@@ -1,8 +1,8 @@
 +++
-title = "Hyunmi Kim"
+title = "Hyun Mee Kim"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["faculty"]
-banner = "img/people/HajoonSong.png"
+banner = "img/people/hyunmeekim.jpg"
 email = "khm@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5683"
@@ -11,14 +11,24 @@ web = "http://apdal.yonsei.ac.kr"
 +++
 
 #### Research interests
-+ 자료동화
-+ 예측가능성
-+ 최적관측
-+ 종관규모 및 대규모역학
++ Atmospheric Predictability
++ Data Assimilation
++ Adaptive Observation
++ Large and Synoptic Scale Atmospheric Dynamics
 
 #### Education
-+ **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego
-+ **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **Ph.D.** (2002) Atmospheric and Oceanic Sciences, University of Wisconsin-Madison, USA
++ **M.S.** (1992) Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.S.** (1990) Atmospheric Sciences, Yonsei University, Seoul, Korea
+
+#### Professional Experience
++ 2014-current : Professor, Yonsei University
++ 2009-2014    :         Associate professor, Yonsei University
++ 2005-2008    :         Assistant professor, Yonsei University
++ 2003-2005    :         Research Scientist & Meteorological Administration, Meteorological Research Institute, Korea    
++ 2002-2003    :         Research Associate, Dept. of Atmospheric and Oceanic Sciences,
+                              Univ. of Wisconsin-Madison
++ 1992-1997    :         Research Scientist, Korea Meteorological Administration
 
 #### Courses
 + 자료동화
@@ -26,8 +36,5 @@ web = "http://apdal.yonsei.ac.kr"
 + 예측가능성론
 
 #### Selected Publications
-+ THIS
-+ That
-+ Something else
-
-
++ Publication 1
++ Publication 2

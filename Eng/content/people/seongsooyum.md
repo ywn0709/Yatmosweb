@@ -2,7 +2,7 @@
 title = "Seongsoo Yum"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["faculty"]
-banner = "img/people/HajoonSong.png"
+banner = "img/people/seongsooyum.jpg"
 email = "ssyum@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5681"
@@ -11,12 +11,19 @@ web = "http://cloud.yonsei.ac.kr"
 +++
 
 #### Research interests
-+ 구름물리학
-+ 구름관측 및 수치모형연구
++ Cloud Physics
++ Cloud Observation and numerical modeling
++ Cloud seeding experiment
 
 #### Education
-+ **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego
-+ **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **Ph.D.** (1998) Univ. of Nevada, Reno, USA
++ **M.Sc.** (1986) Dep. of Astronomy & Atmospheric Science, Yonsei University, Seoul, Korea
++ **B.Sc.** (1984) Dep. of Astronomy & Meteorology, Yonsei University, Seoul, Korea
+
+#### Work Experience
++ Yale University in U.S.A (Post Doc. 2001.3-2001.8)
++ Desert Research Institute in U.S.A (Post Doc. 1998.9-2001.3)
++ Metri in KMA, Lab. of App. & Radar (기상연구사,1987.8- 1990.6)
 
 #### Courses
 + 대기물리
