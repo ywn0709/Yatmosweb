@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>대기과학과</title>
+    <link>http://web.yonsei.ac.kr/atmoskor/</link>
+    <description>Recent content on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2017 14:08:23 -0500</lastBuildDate>
+    
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>대학원</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/graduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/graduate/</guid>
+      <description>Admissions Please visit the offical admissions for graduates course 개설과목(대학원) 학점번호 교과목 설명 ATM6101 ATMOSPHERIC RADIATION 1 radiation law. solar and terrestrial radiation. radiative process in the atmosphere. principle of remote sensing. ATM6102 CLOUD AND PRECIPITATION PROCESSES structure and patterns of cloud, cloud microphysics and precipitation mechanism, artificial rain ATM6103 ATMOSPHERIC DYNAMICS I conservation principle. approximation</description>
+    </item>
+    
+    <item>
+      <title>학부</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</guid>
+      <description>입학안내 Please visit the offical admissions for undergraduates course 개설과목(학부) 학점번호(단위) 교과목 설명 ATM1001 (1000) 날씨와 기후 (Weather and climate) 지구온난화, 오존층 파괴, 대기오염, 산성비, 사막확장, 엘</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Linked post</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/02/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/02/linked-post/</guid>
+      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/09/17/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/09/17/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>김정우</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/jeongwookim/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/jeongwookim/</guid>
+      <description>연구분야 대기역학 기후역학 담당과목 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>김준</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/jhoonkim/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/jhoonkim/</guid>
+      <description>연구분야 대기복사 환경 위성원격탐사 에어러솔 측정 및 분석 담당과목 대기물리 대기복사론 환경원격탐사론 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>김현미</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hyunmeekim/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hyunmeekim/</guid>
+      <description>연구분야 자료동화 예측가능성 최적관측 종관규모 및 대규모역학 담당과목 자료동화 대기역학 예측가능성론 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>노의근</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</guid>
+      <description>연구분야 난류 유체역학 해양물리 미기상학 담당과목 유체역학 전산유체역학 미기상학 논문 Publicaiton 1 Publication 2</description>
+    </item>
+    
+    <item>
+      <title>박상훈</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/sanghunpark/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/sanghunpark/</guid>
+      <description>연구분야 대기모델링 담당과목 대기역학 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>송하준</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</guid>
+      <description>연구분야 Air-sea interactions Carbon cycle Data assimilation 담당과목 UCSD Yonsei University 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>신동빈</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/dongbinshin/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/dongbinshin/</guid>
+      <description>연구분야 위성기상 원격탐사 대기복사 담당과목 위성기상학 마이크로파복사 및 원격탐사이론 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>안순일</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</guid>
+      <description>연구분야 기후역학 대기-해양 상호작용 El Nino 기후변화 담당과목 기후변화의 이해 기후역학 해양-대기 상호작용 논문 Publicaiton 1 Publication 2</description>
+    </item>
+    
+    <item>
+      <title>염성수</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/seongsooyum/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/seongsooyum/</guid>
+      <description>연구분야 구름물리학 구름관측 및 수치모형연구 담당과목 대기물리 구름 및 강수과정 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>이승만</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/seungmanlee/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/seungmanlee/</guid>
+      <description>연구분야 담당과목 논문 Publicaiton 1 Publication 2</description>
+    </item>
+    
+    <item>
+      <title>이태영</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/taeyounglee/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/taeyounglee/</guid>
+      <description>연구분야 중규모기상학 대기오염 대기모델링 담당과목 대기분석 논문 THIS That Something else</description>
+    </item>
+    
+    <item>
+      <title>전혜영</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hyeyeongchun/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hyeyeongchun/</guid>
+      <description>연구분야 중규모대기역학 대기중력파 이론 중력파항력모수화 담당과목 대기역학 고층기상학 중규모기상학 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>조희구</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hikucho/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hikucho/</guid>
+      <description>연구분야 대기복사 오존층 감시 담당과목 논문 Publicaiton 1 Publication 2</description>
+    </item>
+    
+    <item>
+      <title>최연주</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi/</guid>
+      <description>연구분야 Air-sea interactions Carbon cycle Data assimilation</description>
+    </item>
+    
+    <item>
+      <title>홍성유</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/songyouhong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/songyouhong/</guid>
+      <description>연구분야 수치모델링 단기예보 계절예보 집중호우 지역기후 담당과목 대기분석 수치예보 논문 Publicaiton 1 Publication 2</description>
+    </item>
+    
+    <item>
+      <title>홍진규</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/jinkyuhong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/jinkyuhong/</guid>
+      <description>연구분야 생물대기 상호작용 미기상학 담당과목 미기상학 생물-대기 상호작용 논문 Publicaiton 1 Publication 2 Publication 3</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/06/24/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>연구활동</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/research/</guid>
+      <description>구름물리 연구실(염성수 교수님) (http://cloud.yonsei.ac.kr) 구름의 생성과 성장을 이해하고, 강수 과정의 개시 여부와 강수량의 정량적 평가를 위해서는 구름 내에서 일어나는 미세물리(cl</description>
+    </item>
+    
+    <item>
+      <title>학과소개</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/about/</guid>
+      <description>1. 학과소개 대기과학은 수학, 물리, 화학, 생물 등의 기초과학 지식과 야외관측, 원격탐사, 수치모형, 슈퍼컴퓨터, 고속통신망 등 첨단기술을 이용하여 일기와 기</description>
+    </item>
+    
+  </channel>
+</rss>
