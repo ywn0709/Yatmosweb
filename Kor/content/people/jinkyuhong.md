@@ -18,8 +18,6 @@ room = "생물대기 연구실 / 과학관 542호"
 + 생물-대기 상호작용
 
 #### 논문
-+ THIS
-+ That
-+ Something else
-
-
++ Publicaiton 1
++ Publication 2
++ Publication 3

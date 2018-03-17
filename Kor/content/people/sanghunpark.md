@@ -6,7 +6,7 @@ banner = "img/people/sanghunpark.jpg"
 email = "pshun@yonsei.ac.kr"
 job = "조교수"
 phone = "02-2123-5686"
-room = "~~~~ 연구실 / 과학관 ~~~호"
+room = "~~~~ 연구실 / 과학관 537호"
 +++
 
 #### 연구분야
@@ -16,4 +16,6 @@ room = "~~~~ 연구실 / 과학관 ~~~호"
 + 대기역학
 
 #### 논문
-+ Something else
++ Publicaiton 1
++ Publication 2
++ Publication 3

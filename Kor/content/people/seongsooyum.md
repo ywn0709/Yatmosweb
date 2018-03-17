@@ -2,7 +2,7 @@
 title = "염성수"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["교수진"]
-banner = "img/people/sungsooyum.jpg"
+banner = "img/people/seongsooyum.jpg"
 email = "ssyum@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5681"
@@ -18,8 +18,8 @@ room = "구름물리 연구실 / 과학관 547호"
 + 구름 및 강수과정
 
 #### 논문
-+ THIS
-+ That
-+ Something else
++ Publicaiton 1
++ Publication 2
++ Publication 3
 
 
