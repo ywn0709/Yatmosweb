@@ -14,7 +14,9 @@
                             {{ .description | safeHTML }}
                         </div>
                         <div class="col-sm-5">
-                            <img class="img-responsive" src="{{ .image }}" alt="">
+                            <a href="{{ .dest }}">
+                                <img class="img-responsive" src="{{ .image }}" alt="">
+                            </a>
                         </div>
                     </div>
                 </div>
