@@ -742,6 +742,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #003876;
   background-color: #ffffff;
 }
+<<<<<<< HEAD
 #intro {
   background: url('../img/home.jpg') no-repeat center top;
   -webkit-background-size: cover;
@@ -749,6 +750,8 @@ fieldset[disabled] .btn-template-primary.active {
   -o-background-size: cover;
   background-size: cover;
 }
+=======
+>>>>>>> master
 #intro .item {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   height: 100%;
@@ -1786,7 +1789,11 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
+<<<<<<< HEAD
   background: url('../img/apply.jpg') center top no-repeat;
+=======
+  background: url('../img/skybackground.jpg') center top no-repeat;
+>>>>>>> master
   background-attachment: fixed;
   background-size: cover;
 }
@@ -3589,3 +3596,9 @@ tbody td {
   display: -webkit-flex;
   flex-wrap: wrap;
 }
+<<<<<<< HEAD
+=======
+.img-responsive.img-center {
+  margin: 0 auto;
+}
+>>>>>>> master
