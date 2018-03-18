@@ -1,5 +1,5 @@
 +++
-title = "Ki Ku Cho"
+title = "Hi Ku Cho"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/hikucho.jpg"

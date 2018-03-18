@@ -6,42 +6,23 @@
     <description>Recent content in Categories on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="http://web.yonsei.ac.kr/atmoseng/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Atmos</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/categories/atmos/</link>
+      <title>Notice</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/categories/notice/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/categories/atmos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/categories/go/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/categories/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/categories/hugo/</guid>
+      <guid>http://web.yonsei.ac.kr/atmoseng/categories/notice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar</title>
       <link>http://web.yonsei.ac.kr/atmoseng/categories/seminar/</link>
-      <pubDate>Sat, 17 Mar 2018 18:04:13 +0900</pubDate>
+      <pubDate>Sun, 18 Mar 2018 12:49:47 +0900</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/categories/seminar/</guid>
       <description></description>

@@ -147,6 +147,10 @@ div.section {
   font-size: 30px;
   border-width: 2px;
 }
+.icon.icon-md {
+  font-size: 20px;
+  color: #000;
+}
 .ul-icons {
   padding-left: 10px;
 }
@@ -742,7 +746,6 @@ fieldset[disabled] .btn-template-primary.active {
   color: #003876;
   background-color: #ffffff;
 }
-<<<<<<< HEAD
 #intro {
   background: url('../img/home.jpg') no-repeat center top;
   -webkit-background-size: cover;
@@ -750,8 +753,6 @@ fieldset[disabled] .btn-template-primary.active {
   -o-background-size: cover;
   background-size: cover;
 }
-=======
->>>>>>> master
 #intro .item {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   height: 100%;
@@ -1344,7 +1345,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 40px;
 }
 .team-member h3 {
-  font-size: 18px;
+  font-size: 16px;
   text-transform: uppercase;
   margin-bottom: 5px;
   letter-spacing: 0.08em;
@@ -3592,9 +3593,3 @@ tbody td {
   display: -webkit-flex;
   flex-wrap: wrap;
 }
-<<<<<<< HEAD
-=======
-.img-responsive.img-center {
-  margin: 0 auto;
-}
->>>>>>> master

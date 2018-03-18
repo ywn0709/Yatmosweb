@@ -47,7 +47,7 @@
                                 <div class="team-member">
                                     <!--div class="image center-block" style="width:100%; max-height:200px;max-width:200px;">
                                         <a href="{{ .Permalink }}"-->
-                                    <div class="center-block" style="width:95%; max-width:149px;">
+                                    <div class="center-block" style="width:95%; max-width:200px;">
                                         <a href="{{ .Permalink }}">
                                         <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive" style="margin: 0 auto;">
                                         <center/a>
@@ -107,11 +107,19 @@
                         <section class="post">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-1">
+                                        <span class="fa-stack fa-lg">
+                                          <i class="fa fa-circle-thin fa-stack-2x"></i>
+                                          <i class="fa fa-{{ .Params.icon }} fa-stack-1x"></i>
+                                        </span>
+                                    </div>
+                                    <div class="col-sm-5">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     </div>
                                     <div class="col-sm-6">
                                     <p class="intro">{{ .Summary }}</p>
+                                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
+                                    </p>
                                     </div>
                                     <div class="clearfix">
                                         <p class="author-category">

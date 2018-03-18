@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminar on 대기과학과</title>
+    <link>http://web.yonsei.ac.kr/atmoskor/categories/seminar/</link>
+    <description>Recent content in Seminar on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Mar 2018 12:49:47 +0900</lastBuildDate>
+    
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/categories/seminar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Seminar] Prof. Myung-in Lee</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/18/seminar_leemyungin/</link>
+      <pubDate>Sun, 18 Mar 2018 12:49:47 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/18/seminar_leemyungin/</guid>
+      <description>Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns 
+Prof. Myong-In Lee (Ulsan National Institute of Science and Technology) 2018/3/20 (Tuesday) 16:00 Science Hall #553 
+Abstract Heatwave is a natural disaster with prolonged hot weather lasting for a few days or even longer than a few weeks, increasing mortality and heat diseases, as well as many harmful impacts on property loss and daily lives. As the global mean temperature increases especially in recent years, many regions in the globe are suffering from more frequent development of heatwaves and tropical nights with unprecedented intensity during warm season.</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Prof. Michael L. Kaplan</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/17/seminar_kaplan/</link>
+      <pubDate>Sat, 17 Mar 2018 18:04:13 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/17/seminar_kaplan/</guid>
+      <description>The Unbalanced Dynamics of Deep Jet Streaks Above Developing Surface Inverted Troughs Prof. Michael L. Kaplan (Desert Research Institute) 2018년 3월 21일 (수) 11:00 과학관 553호 Abstract We will employ high resolution observations and numerical simulations to show how the coupling between low-level and mid-tropospheric largely diabatically-forced frontogenesis results in complex upper-tropospheric jet adjustments in two</description>
+    </item>
+    
+  </channel>
+</rss>

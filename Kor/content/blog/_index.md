@@ -1,4 +1,5 @@
 +++
-title = "학과소식"
+title = "news"
 categories = []
+active = "blog"
 +++

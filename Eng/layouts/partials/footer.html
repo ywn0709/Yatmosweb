@@ -23,11 +23,10 @@
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
                         <a href="{{ .Permalink }}">
-                          {{ if isset .Params "banner" }}
-                            <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="{{ .Title }}">
-                          {{ else }}
-                            <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="{{ .Title }}">
-                          {{ end }}
+                            <span class="fa-stack fa-lg" style="color:#fff;">
+                                <i class="fa fa-circle-thin fa-stack-2x"></i>
+                                <i class="fa fa-{{ .Params.icon }} fa-stack-1x"></i>
+                            </span>
                         </a>
                     </div>
                     <div class="name same-height-always">

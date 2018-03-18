@@ -6,18 +6,27 @@
     <description>Recent content on Dep. of Atmos. Sci.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Mar 2018 18:04:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 12:49:47 +0900</lastBuildDate>
     
 	<atom:link href="http://web.yonsei.ac.kr/atmoseng/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Seminar_kaplan</title>
+      <title>[Seminar] Prof. Myung-in Lee</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/blog/2018/03/18/seminar_leemyungin/</link>
+      <pubDate>Sun, 18 Mar 2018 12:49:47 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2018/03/18/seminar_leemyungin/</guid>
+      <description>Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Prof. Michael L. Kaplan</title>
       <link>http://web.yonsei.ac.kr/atmoseng/blog/2018/03/17/seminar_kaplan/</link>
       <pubDate>Sat, 17 Mar 2018 18:04:13 +0900</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/blog/2018/03/17/seminar_kaplan/</guid>
-      <description></description>
+      <description>The Unbalanced Dynamics of Deep Jet Streaks Above Developing Surface Inverted Troughs</description>
     </item>
     
     <item>
@@ -26,11 +35,7 @@
       <pubDate>Thu, 01 Mar 2018 14:08:23 -0500</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/education/scholarship/</guid>
-      <description>Admissions Please visit the offical admissions for graduates course
-Courses ATM6101 ATMOSPHERIC RADIATION 1 radiation law. solar and terrestrial radiation. radiative process in the atmosphere. principle of remote sensing.
-ATM6102 CLOUD AND PRECIPITATION PROCESSES structure and patterns of cloud, cloud microphysics and precipitation mechanism, artificial rain
-ATM6103 ATMOSPHERIC DYNAMICS I conservation principle. approximation of the equation of motion. atmospheric oscillation. scaling analysis.
-ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</description>
+      <description>Admissions Please visit the offical admissions for graduates course</description>
     </item>
     
     <item>
@@ -39,11 +44,7 @@ ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</
       <pubDate>Thu, 01 Mar 2018 14:08:23 -0500</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/education/seminar1/</guid>
-      <description>Admissions Please visit the offical admissions for graduates course
-Courses ATM6101 ATMOSPHERIC RADIATION 1 radiation law. solar and terrestrial radiation. radiative process in the atmosphere. principle of remote sensing.
-ATM6102 CLOUD AND PRECIPITATION PROCESSES structure and patterns of cloud, cloud microphysics and precipitation mechanism, artificial rain
-ATM6103 ATMOSPHERIC DYNAMICS I conservation principle. approximation of the equation of motion. atmospheric oscillation. scaling analysis.
-ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</description>
+      <description>Admissions Please visit the offical admissions for graduates course</description>
     </item>
     
     <item>
@@ -52,7 +53,7 @@ ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</
       <pubDate>Mon, 18 Dec 2017 14:08:33 -0500</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/labs/gfdl/</guid>
-      <description> We study an Ocean mixed layer and an Atmospheric boundary layer using the Parallel LES Model (PALM). And we study about the effects of ocean on the climate change using the ocean model. </description>
+      <description>We study an Ocean mixed layer and an Atmospheric boundary layer using the Parallel LES Model (PALM).</description>
     </item>
     
     <item>
@@ -61,7 +62,7 @@ ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/labs/cloudphysics/</guid>
-      <description>In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions. Also investigated are the implications of these properties on cloud and precipitation developments and aerosol direct and indirect effects using a convective cloud model, an LES cloud model and a mesoscale model. Main areas of interest include warm rain initiation problem, aerosol direct and indirect effects, CCN-precipitation efficiency relationships, cloud seeding, and fog microphysical processes.</description>
+      <description>In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions.</description>
     </item>
     
     <item>
@@ -70,11 +71,7 @@ ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/education/graduate/</guid>
-      <description>Admissions Please visit the offical admissions for graduates course
-Courses ATM6101 ATMOSPHERIC RADIATION 1 radiation law. solar and terrestrial radiation. radiative process in the atmosphere. principle of remote sensing.
-ATM6102 CLOUD AND PRECIPITATION PROCESSES structure and patterns of cloud, cloud microphysics and precipitation mechanism, artificial rain
-ATM6103 ATMOSPHERIC DYNAMICS I conservation principle. approximation of the equation of motion. atmospheric oscillation. scaling analysis.
-ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</description>
+      <description>Admissions Please visit the offical admissions for graduates course</description>
     </item>
     
     <item>
@@ -83,20 +80,7 @@ ATM6104 ATMOSPHERIC DYNAMICS II geostrophic dynamics. atmospheric instability.</
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/education/undergraduate/</guid>
-      <description>Admissions Please visit the offical admissions for undergraduates course
-Courses ATM1001 Global Environment and Atmospheric Sciences Scientific understanding of global environmental problems such as global warming, destruction of the ozone layer, air pollution, desertification, El Nino/ La Nino severe weather, etc. and related research areas and methodologies in atmospheric sciences.
-ATM2101 Climate and Global Change Understanding global-scale changes such as global warming, destruction of the ozone layer, desertification in terms of climate system including the atmosphere, oceans and terrestrial ecosystems.</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>Admissions Please visit the offical admissions for undergraduates course</description>
     </item>
     
     <item>
@@ -105,28 +89,7 @@ ATM2101 Climate and Global Change Understanding global-scale changes such as glo
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/10/notice/</guid>
-      <description>&lt;p&gt;This is summary.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Linked post</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/02/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
-      <title>Go is for lovers</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/09/17/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     
     <item>
@@ -135,7 +98,7 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/dongbinshin/</guid>
-      <description>Research interests  Satellite Meteorology Atmospheric Remote Sensing Atmospheric Radiation  Education  Ph.D. (1999) Atmospheric Sciences, Texas A&amp;amp;M University, College Station, TX, USA M.S. (1989) Meteorology, Yonsei University, Seoul, Korea B.S. (1987) Astronomy and Meteorology, Yonsei University, Seoul, Korea  Research Experience  2014-present : Professor, Department of Atmospheric Sciences, Yonsei University, Seoul, Korea. 2007-2013 : Associate Professor, Department of Atmospheric Sciences, Yonsei University, Seoul, Korea. 2002-2007 : Research Professor, Center for Earth Observing and Space Research, School of Computational Sciences, George Mason University, Fairfax, VA, USA.</description>
+      <description>Research interests  Satellite Meteorology Atmospheric Remote Sensing Atmospheric Radiation  Education  Ph.</description>
     </item>
     
     <item>
@@ -144,21 +107,16 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/hajoonsong/</guid>
-      <description>Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  Ph.D. (2011) Scripps Institution of Oceanography, University of California, San Diego, USA B.S. (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Research Experience  MIT, Cambridge, USA (2013-2018) University of California, Santa Cruz, USA (2011-2013) Scripps Institution of Oceanography, La Jolla, USA (2005-2011)  Courses  Air-sea interactions Ocean modeling  Selected Publications  Stukel, M.</description>
+      <description>Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  Ph.</description>
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <title>Hi Ku Cho</title>
+      <link>http://web.yonsei.ac.kr/atmoseng/people/hikucho/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>http://web.yonsei.ac.kr/atmoseng/people/hikucho/</guid>
+      <description>Research interests  Atmospheric Radiation  Education  Ph.D. Meteorology, Yonsei University, Seoul, Korea M.</description>
     </item>
     
     <item>
@@ -167,7 +125,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/hyeyeongchun/</guid>
-      <description>Research interests  Atmospheric Gravity Waves Nonlinear Dynamics of Mesoscale Atmospheric Circulation Cloud Dynamics in Mesoscale Convective System Mountain Waves Atmospheric Solitary Waves Parameterization of Gravity Wave Drag on GCM Middle Atmosphere Dynamics  Education  Ph.D. (1991) in Atmospheric Sciences, North Carolina State University, USA M.Sc (1987) in Meteorology, Yonsei University, Seoul, Korea B.Sc (1985) in Meteorology, Yonsei University, Seoul, Korea  Academic Experience  2003 ~ : Professor, Yonsei University / Editor of KMS 2010 : Visiting Scholar, JPL/NASA/USA 2008 - 2009 : Chair of academic committee, KMS 2004 : Visiting Professor, Kyoto University, Japan 2003 : Visiting Scholar, ATDD/ARL/NOAA/USA 2001 - 2003 : Chairman, Dept.</description>
+      <description>Research interests  Atmospheric Gravity Waves Nonlinear Dynamics of Mesoscale Atmospheric Circulation Cloud Dynamics in Mesoscale Convective System Mountain Waves Atmospheric Solitary Waves Parameterization of Gravity Wave Drag on GCM Middle Atmosphere Dynamics  Education  Ph.</description>
     </item>
     
     <item>
@@ -176,7 +134,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/hyunmeekim/</guid>
-      <description>Research interests  Atmospheric Predictability Data Assimilation Adaptive Observation Large and Synoptic Scale Atmospheric Dynamics  Education  Ph.D. (2002) Atmospheric and Oceanic Sciences, University of Wisconsin-Madison, USA M.S. (1992) Atmospheric Sciences, Yonsei University, Seoul, Korea B.S. (1990) Atmospheric Sciences, Yonsei University, Seoul, Korea  Professional Experience  2014-current : Professor, Yonsei University 2009-2014 : Associate professor, Yonsei University 2005-2008 : Assistant professor, Yonsei University 2003-2005 : Research Scientist &amp;amp; Meteorological Administration, Meteorological Research Institute, Korea</description>
+      <description>Research interests  Atmospheric Predictability Data Assimilation Adaptive Observation Large and Synoptic Scale Atmospheric Dynamics  Education  Ph.</description>
     </item>
     
     <item>
@@ -194,7 +152,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/jhoonkim/</guid>
-      <description>Research interests  Atmospheric Radiation Remote Sensing Ozone layer Aeronomy  Education  Ph.D. (1991) 공과대학 대기. 우주과학, Univ. of Michigan - Ann Arbor, USA M.S. (1987) 공과대학 대기. 우주과학, Univ. of Michigan - Ann Arbor, USA B.S. (1986) Meteorology, Seoul National University, Seoul, Korea  Professional Experience  2003 - current : 연세대학교 대기과학과/지구환경연구소 교수 2014-2015 : 자연과학연구원 부원장, 자연과학융합연구소 소장 2007-2009 : 학과장 1991 - 2003 : 한국항공우주연구원(KARI) 책임연구원, 선임연구원 2009 - 현재 : 환경부 위성사업 연구단장 (P.</description>
+      <description>Research interests  Atmospheric Radiation Remote Sensing Ozone layer Aeronomy  Education  Ph.</description>
     </item>
     
     <item>
@@ -203,16 +161,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/jinkyuhong/</guid>
-      <description>Research interests  Carbon and Water Cycles Urban Microclimate Atmospheric Turbulence  Education  Ph.D. (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea M.S. (1999) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea B.S. (1997) Astronomy and Atmospheric Sciences, Yonsei University, Seoul, Korea  Professional Experience  Science Steering Committee Member of AsiaFlux (http://asiaflux.net) (2014-2017) Technical Advisory Committee Member of Korea Institute of Atmospheric Prediction System (http://kiaps.org) (2015-present) Advisory committee member for weather and climate business support center, KMIPA (2015- present) Research proposal investigator in National Research Foundation Organizing committee member of 1st and 2nd Urban and Rural Meteorology Workshop 2012 (http://workshop.</description>
-    </item>
-    
-    <item>
-      <title>Ki Ku Cho</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/people/hikucho/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/people/hikucho/</guid>
-      <description> Research interests  Atmospheric Radiation  Education  Ph.D. Meteorology, Yonsei University, Seoul, Korea M.S. Meteorology, Yonsei University, Seoul, Korea B.S. Physics, Yonsei University, Seoul, Korea  Professional Experience  현 연세대학교 명예교수 현 한국기상학회 명예회장 1971 - 1999 연세대학교 대기과학과 교수 1981 - 1982 미국 미시간 대학교 객원교수, 전 한국기상학회장 1958 - 1970 중앙기상대 근무  </description>
+      <description>Research interests  Carbon and Water Cycles Urban Microclimate Atmospheric Turbulence  Education  Ph.</description>
     </item>
     
     <item>
@@ -221,7 +170,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/sanghunpark/</guid>
-      <description> Research interests  대기모델링  Education  Ph.D. () Department of Atmospheric Sciences, Yonsei University, Seoul, Korea B.S. () Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Courses  대기역학  Selected Publications  Publication 1 Publication 2  </description>
+      <description>Research interests  대기모델링  Education  Ph.D. () Department of Atmospheric Sciences, Yonsei University, Seoul, Korea B.</description>
     </item>
     
     <item>
@@ -230,7 +179,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/seongsooyum/</guid>
-      <description>Research interests  Cloud Physics Cloud Observation and numerical modeling Cloud seeding experiment  Education  Ph.D. (1998) Univ. of Nevada, Reno, USA M.Sc. (1986) Dep. of Astronomy &amp;amp; Atmospheric Science, Yonsei University, Seoul, Korea B.Sc. (1984) Dep. of Astronomy &amp;amp; Meteorology, Yonsei University, Seoul, Korea  Work Experience  Yale University in U.S.A (Post Doc. 2001.3-2001.8) Desert Research Institute in U.S.A (Post Doc. 1998.9-2001.3) Metri in KMA, Lab. of App.</description>
+      <description>Research interests  Cloud Physics Cloud Observation and numerical modeling Cloud seeding experiment  Education  Ph.</description>
     </item>
     
     <item>
@@ -248,7 +197,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/songyouhong/</guid>
-      <description> Research interests  Numerical Weather Prediction Regional Climate Parameterization of Atmospheric Physics Seasonal Prediction  Education  Ph.D. (1992) Seoul National University, Seoul, Korea  Professional Experience Selected Publications  Publication 1 Publication 2  </description>
+      <description>Research interests  Numerical Weather Prediction Regional Climate Parameterization of Atmospheric Physics Seasonal Prediction  Education  Ph.</description>
     </item>
     
     <item>
@@ -257,7 +206,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/soonilan/</guid>
-      <description>Research interests  Climate Dynamics Atmosphere Ocean Interaction El Nino, Climate Change Paleoclimate dynamics  Education  Ph.D. (1996) Atmospheric Sciences, Seoul National University, Seoul, Korea M.S. (1991) Atmospheric Sciences, Seoul National University, Seoul, Korea B.S. (1989) Atmospheric Sciences, Seoul National University, Seoul, Korea  Scientific Work Experience  Associate Researcher, International Pacific Research Center, SOEST, University of Hawaii, Honolulu, Hawaii, 2002.10~2005.9 Assistant Researcher, International Pacific Research Center, SOEST, University of Hawaii, Honolulu, Hawaii, 2001.</description>
+      <description>Research interests  Climate Dynamics Atmosphere Ocean Interaction El Nino, Climate Change Paleoclimate dynamics  Education  Ph.</description>
     </item>
     
     <item>
@@ -266,7 +215,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/taeyounglee/</guid>
-      <description> Research interests  Mesoscale Meteorology Air Pollution Meteorology Atmospheric Modeling Numerical Weather Prediction  Education  Ph.D. (1984) Oregon State University, Korea  Professional Experience Selected Publications  Publication 1 Publication 2  </description>
+      <description>Research interests  Mesoscale Meteorology Air Pollution Meteorology Atmospheric Modeling Numerical Weather Prediction  Education  Ph.</description>
     </item>
     
     <item>
@@ -275,7 +224,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/yeonjuchoi/</guid>
-      <description> Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  B.S. name of the school  Publications  THIS That Something else  If you want to add another section, you can add it like this  If you want to list the items, you can do this Another item Or you can describe the content like this.  </description>
+      <description>Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  B.</description>
     </item>
     
     <item>
@@ -284,17 +233,7 @@ Follow the following steps:
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/people/yignnoh/</guid>
-      <description> Research interests  Geophysical Fluid Dynamics Turbulence Suspension Parallel Computational Fluid Dynamics Physical Oceanography Ocean Mixed Layer OGCM LES  Education  Ph.D. (1987) Department of Earth &amp;amp; Planetary Sciences,The Johns Hopkins University, Baltimore, MD, USA M.Sc. (1982) Department of Physics, Seoul National University, Seoul, Korea. B.Sc. (1980) Department of Oceanography, Seoul National University, Seoul, Korea.  Work Experience Courses  유체역학 전산유체역학 미기상학  Selected Publications  Publication 1 Publication 2  </description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>http://web.yonsei.ac.kr/atmoseng/blog/2015/06/24/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoseng/blog/2015/06/24/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Research interests  Geophysical Fluid Dynamics Turbulence Suspension Parallel Computational Fluid Dynamics Physical Oceanography Ocean Mixed Layer OGCM LES  Education  Ph.</description>
     </item>
     
     <item>
@@ -303,7 +242,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/about/</guid>
-      <description>1. Overview Atmospheric Sciences present the challenges of a wide variety of problems of compelling scientific interest and increasing social relevance. This is exemplified by the current concern over Planet Earth and Global Change, including issues regarding the demand for reliable weather forecast, climate change, the ozone layer, the attempt to control air pollution, precipitation enhancement against water shortage the management of our limited natural resources, and the expanding frontiers to ocean, arctics, and space.</description>
+      <description>1. Overview Atmospheric Sciences present the challenges of a wide variety of problems of compelling scientific interest and increasing social relevance.</description>
     </item>
     
     <item>
@@ -312,8 +251,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+      <description>We are here to help you Are you curious about something?</description>
     </item>
     
     <item>
@@ -322,8 +260,7 @@ Please feel free to contact us, our customer service center is working for you 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</description>
     </item>
     
     <item>
@@ -332,7 +269,7 @@ Please feel free to contact us, our customer service center is working for you 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoseng/research/</guid>
-      <description>Cloud Pysics Laboratory (http://cloud.yonsei.ac.kr) In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions. Also investigated are the implications of these properties on cloud and precipitation developments and aerosol direct and indirect effects using a convective cloud model, an LES cloud model and a mesoscale model. Main areas of interest include warm rain initiation problem, aerosol direct and indirect effects, CCN-precipitation efficiency relationships, cloud seeding, and fog microphysical processes.</description>
+      <description>Cloud Pysics Laboratory (http://cloud.yonsei.ac.kr) In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions.</description>
     </item>
     
   </channel>

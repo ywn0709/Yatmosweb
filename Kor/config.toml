@@ -13,6 +13,8 @@ hasCJKLanguage = true
 # Define the number of posts per page
 paginate = 12
 
+summarylength = 10
+
 [menu]
 
 # Main menu
