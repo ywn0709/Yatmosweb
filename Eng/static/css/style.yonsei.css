@@ -251,7 +251,7 @@ ul.list-style-none {
 #top {
   background: #555555;
   color: #eeeeee;
-  padding: 10px 0;
+  padding: 0px 0;
 }
 #top p {
   margin: 0;
@@ -262,13 +262,13 @@ ul.list-style-none {
   text-align: right;
 }
 #top .social a {
-  color: #999999;
+  color: #fff;
   display: inline-block;
-  width: 24px;
-  height: 24px;
+  width: 34px;
+  height: 20px;
   border-radius: 12px;
   line-height: 20px;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   vertical-align: bottom;
 }

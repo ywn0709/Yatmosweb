@@ -85,6 +85,12 @@ summarylength = 10
 #    url  = "/contact/"
 #    weight = 6
 
+[[menu.topbar]]
+    weight = 1
+    name = "Language"
+    url = "http://web.yonsei.ac.kr/atmoskor"
+    pre = "한글"
+
 [params]
     viewMorePostLink = "/blog/"
     author = "YAtmos"
@@ -137,7 +143,7 @@ summarylength = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = false
+    enable = true
     text = """
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
