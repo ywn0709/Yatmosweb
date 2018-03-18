@@ -1,9 +1,0 @@
-weight: 1
-title: "Yonsei University"
-description: >
-  <ul class="list-style-none">
-    <li>Yonsei University</li>
-    <li>Department of Atmospheric Sciences</li>
-  </ul>
-image: "img/carousel/template-easy-code.png"
-dest: "blog/2015/10/10/migrate-from-jekyll/"
