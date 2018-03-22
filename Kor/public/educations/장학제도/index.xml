@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>장학제도 on 대기과학과</title>
+    <link>http://web.yonsei.ac.kr/atmoskor/educations/%EC%9E%A5%ED%95%99%EC%A0%9C%EB%8F%84/</link>
+    <description>Recent content in 장학제도 on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2017 14:08:23 -0500</lastBuildDate>
+    
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/educations/%EC%9E%A5%ED%95%99%EC%A0%9C%EB%8F%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>장학제도</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</guid>
+      <description>학부생 장학금 연세 한마</description>
+    </item>
+    
+  </channel>
+</rss>
