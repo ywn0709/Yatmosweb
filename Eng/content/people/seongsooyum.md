@@ -30,8 +30,5 @@ web = "http://cloud.yonsei.ac.kr"
 + 구름 및 강수과정
 
 #### Selected Publications
-+ THIS
-+ That
-+ Something else
-
-
++ Publication 1
++ Publication 2

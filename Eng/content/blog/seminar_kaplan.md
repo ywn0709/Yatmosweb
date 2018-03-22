@@ -1,7 +1,7 @@
 +++
 title = "[Seminar] Prof. Michael L. Kaplan"
 date = 2018-03-17T18:04:13+09:00
-categories = ["seminar"]
+categories = ["seminar","2018"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
