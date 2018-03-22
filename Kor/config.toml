@@ -179,11 +179,11 @@ summarylength = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    icon = "fa fa-paper-plane"
+    title = "학과 지원하기"
+    subtitle = "대기과학 및 지구과학의 다양한 분야에서 활발한 연구를 하고 있습니다. 여러분의 참여를 기다립니다."
+    link_url = "education"
+    link_text = "학사안내"
 
 [params.clients]
     enable = false
@@ -195,8 +195,8 @@ summarylength = 10
 
 [params.recent_posts]
     enable = true
-    title = "News and Events"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "소식 및 세미나 공지"
+    subtitle = "최근 학과 소식 및 세미나에 대한 공지사항 입니다. 자세한 사항은 학과소식을 참고해 주세요."
 
 [taxonomies]
     tag = "tags"
