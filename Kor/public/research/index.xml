@@ -12,20 +12,20 @@
     
     <item>
       <title>연구활동</title>
-      <link>http://web.yonsei.ac.kr/atmoskor/research/environmentresearchcenter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoskor/research/environmentresearchcenter/</guid>
-      <description>구름물리 연구실(염성</description>
-    </item>
-    
-    <item>
-      <title>연구활동</title>
       <link>http://web.yonsei.ac.kr/atmoskor/research/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/research/research/</guid>
       <description>구름물리 연구실(염성</description>
+    </item>
+    
+    <item>
+      <title>지구환경연구소</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/research/environmentcenter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/research/environmentcenter/</guid>
+      <description>설립목적 21세기의 주</description>
     </item>
     
   </channel>

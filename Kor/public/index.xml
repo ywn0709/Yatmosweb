@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>교과과정</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</guid>
+      <description>학부과정 | 구분 | 이수</description>
+    </item>
+    
+    <item>
       <title>대학원</title>
       <link>http://web.yonsei.ac.kr/atmoskor/education/graduate/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
@@ -39,12 +48,30 @@
     </item>
     
     <item>
+      <title>장학제도</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</guid>
+      <description>학부생 장학금 연세 한마</description>
+    </item>
+    
+    <item>
       <title>학부</title>
       <link>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</guid>
       <description>입학안내 Please visit the offical admissions for</description>
+    </item>
+    
+    <item>
+      <title>학사일정</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/calender/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/calender/</guid>
+      <description>연세대학교 학사일정 바</description>
     </item>
     
     <item>
@@ -220,20 +247,20 @@
     
     <item>
       <title>연구활동</title>
-      <link>http://web.yonsei.ac.kr/atmoskor/research/environmentresearchcenter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoskor/research/environmentresearchcenter/</guid>
-      <description>구름물리 연구실(염성</description>
-    </item>
-    
-    <item>
-      <title>연구활동</title>
       <link>http://web.yonsei.ac.kr/atmoskor/research/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/research/research/</guid>
       <description>구름물리 연구실(염성</description>
+    </item>
+    
+    <item>
+      <title>지구환경연구소</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/research/environmentcenter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/research/environmentcenter/</guid>
+      <description>설립목적 21세기의 주</description>
     </item>
     
     <item>
