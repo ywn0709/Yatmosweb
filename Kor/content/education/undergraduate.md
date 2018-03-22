@@ -2,16 +2,20 @@
 title: "학부"
 date: 2017-12-18T14:08:23-05:00
 type: education
-layout: single 
+layout: single
+weight: 1
 educations: ["학부"]
 banner: "img/banners/banner-1.jpg"
+icon: "university"
 ---
 
 ## 입학안내
-Please visit the offical admissions for undergraduates course
+Please visit the official admissions for undergraduates course
+
+## 현황
 
 ## 개설과목(학부)
-| 학점번호(단위) | 교과목 | 설명 |
+| 학점번호(단위)  | 교과목 | 설명 |
 |--------------|--------|-----|
 |  ATM1001 (1000)| 날씨와 기후 (Weather and climate)| 지구온난화, 오존층 파괴, 대기오염, 산성비, 사막확장, 엘리뇨/라니냐, 악기상 등의 대기와 관련된 지구환경 문제의 과학적 이해 및 이들을 연구하는 대기과학의 연구 분야 및 연구 방법론 이해.|
 |ATM2101 (2000)| 기후변화의 이해 (Earth's Climate Change)| 지구 온난화, 오존층의 파괴, 사막화 등 전 구에 걸친 변화를 대기, 해양, 생태계 등을 포함한 기후 시스템의 관점에서 이해.|
