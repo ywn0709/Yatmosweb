@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>교과과정</title>
-      <link>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</link>
-      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</guid>
-      <description>학부과정 이수조건(단</description>
-    </item>
-    
-    <item>
       <title>학사일정</title>
       <link>http://web.yonsei.ac.kr/atmoskor/education/calender/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
@@ -57,7 +48,7 @@
     </item>
     
     <item>
-      <title>[Seminar] Prof. Myung-in Lee</title>
+      <title>[세미나] Prof. Myung-in Lee</title>
       <link>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/18/seminar_leemyungin/</link>
       <pubDate>Sun, 18 Mar 2018 12:49:47 +0900</pubDate>
       
@@ -66,7 +57,7 @@
     </item>
     
     <item>
-      <title>[Seminar] Prof. Michael L. Kaplan</title>
+      <title>[세미나] Prof. Michael L. Kaplan</title>
       <link>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/17/seminar_kaplan/</link>
       <pubDate>Sat, 17 Mar 2018 18:04:13 +0900</pubDate>
       
@@ -75,7 +66,7 @@
     </item>
     
     <item>
-      <title>notice format</title>
+      <title>공지사항 format</title>
       <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/notice/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
@@ -229,6 +220,15 @@
     
     <item>
       <title></title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</guid>
+      <description>title: &amp;ldquo;교과</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -285,9 +285,9 @@
       <guid>http://web.yonsei.ac.kr/atmoskor/research/research/</guid>
       <description>&lt;p&gt;&lt;strong&gt;연세대학교 대기과학과에서 이루어지는 연구는 넓은 스펙트럼을 가지고 있습니다.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;10개의 연구실에서 매일의 날씨에 관한 연구 쁜만 아니라 과거에서 미래로 이어지는 지구의 기후에 관한 연구가 동시에 진해되고 있으며,
-지역적인 기상 현상에서부터 전 지구의 대기 및 해양 순환에 이르기 까지 다양한 시공간에 대한 연구가 이루어지고 있습니다.
-이를 위하여 우리들은 물리/수학을 바탕으로 한 이론과 인공위성을 포함한 다양한 관측, 그리고 슈퍼컴퓨터를 활용하는 연구를 수행하고 있습니다.&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;10개의 연구실에서 매일의 날씨에 관한 연구 뿐만 아니라 과거에서 미래로 이어지는 지구의 기후에 관한 연구가 동시에 진행되고 있으며,
+지역적인 기상 현상에서부터 전 지구의 대기 및 해양 순환에 이르기까지 다양한 시공간에 대한 연구가 이루어지고 있습니다.
+이를 위하여 우리들은 물리와 수학을 바탕으로 한 이론과 인공위성을 포함한 다양한 관측, 그리고 슈퍼컴퓨터를 활용하는 연구를 수행하고 있습니다.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -307,7 +307,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/about/</guid>
-      <description>학과 소개 대기과학은 수</description>
+      <description></description>
     </item>
     
   </channel>
