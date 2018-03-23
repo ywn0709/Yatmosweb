@@ -155,7 +155,6 @@ summarylength = 10
     tags = false
     search = true
     teams = true
-    educations = true
 
 [params.carousel]
     enable = true
@@ -202,4 +201,3 @@ summarylength = 10
     tag = "tags"
     category = "categories"
     team = "teams"
-    education = "educations"

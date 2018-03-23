@@ -3,16 +3,18 @@ title: "대학원"
 date: 2017-12-18T14:08:23-05:00
 type: education
 layout: single
-educations: ["대학원"]
+weight: 2
 banner: "img/banners/banner-1.jpg"
+icon: "graduation-cap"
 ---
 
-## Admissions
+### 입학 안내
 
-Please visit the offical admissions for graduates course
+Please visit the official admissions for graduates course
 
+### 현황
 
-## 개설과목(대학원)
+### 개설과목(대학원)
 | 학점번호 | 교과목 | 설명 |
 |--------|--------| --------|
 |ATM6101 | ATMOSPHERIC RADIATION 1 | radiation law. solar and terrestrial radiation. radiative process in the atmosphere. principle of remote sensing. |

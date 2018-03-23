@@ -12,49 +12,60 @@ web = "http://web.yonsei.ac.kr/oasis"
 
 #### Research interests
 + Atmospheric Radiation
-+ Remote Sensing
-+ Ozone layer
-+ Aeronomy
++ Air quality
++ Satellite Remote Sensing
++ Remote Sensing of aerosol and trace gases
 
 #### Education
-+ **Ph.D.** (1991) 공과대학 대기. 우주과학, Univ. of Michigan - Ann Arbor, USA
-+ **M.S.** (1987) 공과대학 대기. 우주과학, Univ. of Michigan - Ann Arbor, USA
-+ **B.S.** (1986) Meteorology, Seoul National University, Seoul, Korea
++ **Ph.D.** (1991) Atmospheric and Space Sciences, Univ. of Michigan - Ann Arbor, USA
++ **M.S.** (1987)  Atmospheric Sciences, Univ. of Michigan - Ann Arbor, USA
++ **B.S.** (1986)  Atmospheric Sciences, Seoul National University, Seoul, Korea
 
 #### Professional Experience
-+ 2003 - current :  연세대학교 대기과학과/지구환경연구소 교수
-+ 2014-2015      :  자연과학연구원 부원장, 자연과학융합연구소 소장
-+ 2007-2009      :  학과장
-+ 1991 - 2003    :      한국항공우주연구원(KARI) 책임연구원, 선임연구원
-+ 2009 - 현재      :    환경부 위성사업 연구단장 (P.I), GEMS (Geostationary Environment Monitoring Spectrometer) Mission
-+ 2011 - 2012    :      교육과학기술부-NASA 우주협력체계 추진위 지구과학분과 위원장(Chair)
-+ 2009 - 2010    :      NASA Jet Propulsion Laboratory, CalTech, 과학기술고문, 미국 UCLA 방문교수
-+ 2017 - 2020    :      IRC (International Radiation Commission) 위원
-+ 2013 - 2017    :      NDACC (Network for the Detection of Atmospheric Composition Change) Satellite WG 위원
-+ 2012 - 현재     :     IO3C (International Ozone Commision), 위원
-+ 2009 - 2012    :      NIER (국립환경과학원) - NASA Technical Group on Atmospheric Composition Measurements  
-                             from Geostationary Satellites 공동위원장
-+ 2010 - 현재     :     CEOS (Committee on Earth Observing Satellites) ACC 위원
-+ 2008 - 2012    :      ISPRS (International Society for Photogrammetry and Remote Sensing)  
-                             Commission VIII, Working Group 8 공동의장
++ 2003 - Present:  Professor, Department of Atmospheric Sciences, Yonsei University
++ 1991 - 2003    :   Principal Researcher, Senior Researcher, Korea Aerospace Research Institute (KARI)
+
++ 2018 - Present  : Associate Editor, Remote Sensing
++ 2016 - Present  : Guest Editor, Atmospheric Measurement Technique(AMT)
++ 2017 - 2020    :   Commissioner, IRC (International Radiation Commission)
++ 2016 - 현재      :   Editorial Board, Advances in Atmospheric Sciences(AAS)
++ 2016 - 2018      : Editorial Board, Asia Pacific Journal of Atmospheric Sciences(APAS)
++ 2014-2015      :   Deputy Director, Institute of Natural Sciences(INS), Yonsei University
++ 2013 - 2017    :   Member, NDACC (Network for the Detection of Atmospheric Composition Change) Satellite WG
++ 2012 - 2020    :   Member,  IO3C (International Ozone Commision), 위원
++ 2010 - Present :  P.I., GEMS (Geostationary Environment Monitoring Spectrometer) Mission
++ 2010 - 현재     :   Member,  CEOS (Committee on Earth Observing Satellites) ACC
++ 2011 - 2012    :   Chair, MEST-NASA Cooperation System in Space, Earth Science Subcommittee
++ 2009 - 2010    :  Visiting Independent Advisor, NASA Jet Propulsion Laboratory, CalTech; Visiting Scholar, UCLA
++ 2009 - 2012    :  Cochair, NIER (National Institute of Environmental Research) - NASA Technical Group on Atmospheric Composition Measurements
+                             from Geostationary Satellites
++ 2008 - 2012    :  Cochair, Working Group 8, Commission VIII, ISPRS (International Society for Photogrammetry and Remote Sensing)
+
 
 #### Awards
-+ 2014. 6        :        올해의 환경기술 최우수상, 한국환경산업기술원장
-+ 2012. 11       :       한국과학기술한림원 우수학위논문 대상
-+ 2010, 2004     :     SPIE (The International Society for Optical Engineering) 표창장
-+ 2009. 3        :        대통령 표창
-+ 2008. 12       :       환경부 장관 표창
-+ 2008. 10       :       월봉학술상
-+ 2007 - 현재     :    기상청 기후자문협의회 위원
-+ 2003.2         :        국무총리 표창
-+ 2000           :         한국항공우주연구원 우수연구원상
-+ 1993           :         과학기술처 장관 표창
++ 2018. 2        :       Contributed Professor, Yonsei University
++ 2018. 1        :       Scientist of the Month, Korea Research Foundation(NRF), Ministry of Science, Technology and ICT
++ 2017. 6        :       NASA Group Achievement Award, NASA
++ 2014. 6        :       Grand Prize, Environmental Technology of the Year, Korea Environment Industry & Technology Institute (KEITI)   
++ 2012. 11       :      Grand Prize,  Outstanding Ph.D. Thesis Advisor Award, Korea Academy of Science and Technology(KAST)
++ 2010, 2004   :      Citation, SPIE (The International Society for Optical Engineering)
++ 2009. 3        :       Citation, The President of Republic of Korea
++ 2008. 12       :      Citation, Minister of Environment, Republic of Korea
++ 2008. 10       :      Wolbong Academic Award, Korea Meteorological Society
++ 2003.2         :       Citation, Prime Minister of Republic of Korea
++ 2000           :        Researcher of the Year, Korea Aerospace Research Institute(KARI)
++ 1993           :        Citation, Minister of Science & Technology, Republic of Korea
 
 #### Courses
-+ 대기물리
-+ 대기복사론
-+ 환경원격탐사론
++ Atmospheric Physics (Radiative Transfer)
++ Advanced Radiative Transfer
++ Remote Sensing of Environment
++ Atmospheric Measurement
 
 #### Selected Publications
-+ Publication 1
-+ Publication 2
+
++ Kim, J., M. Kim, and M. Choi (2017), Monitoring Aerosol Properties in East Asia from Geostationary Orbit: GOCI, MI and GEMS, ‘Air Pollution in Eastern Asia: An Integrated Perspective’, Chapter 15, 323-334, ISSI Scientific Report Ser. Vol. 16, edited by Idir Bouarar, Xuemei Wang, and Guy Brasseur, Springer, 504pp, ISBN:978-3-319-59488-0, DOI: 10.1007/978-3-319-59489-7
++ Choi, M.J., Jhoon Kim, Jaehwa Lee, Mijin Kim, Young-Je Park, Brent Holben, Thomas F. Eck, Zhengqiang Li, Chul H. Song (2018), GOCI Yonsei aerosol retrieval version 2 aerosol products: improved algorithm description and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmospheric Measurement Technique, 11, 385-408 10.5194/amt-11-385-2018
++ Jeong, Ukkyo, Jhoon Kim, Hanlim Lee, Yun Gon Lee (2017), Assessing the effect of long-range pollutant transport on air quality in Seoul using the conditional potential source contribution function method, Atmospheric Environment, 150, 33-44, doi: 10.1016/j.atmosenv.2016.11.017.
++ Kim, J., J. Lee, H.C. Lee, A. Higurashi, T. Takemura, and C.H. Song (2007), Consistency of the aerosol type classification from satellite remote sensing during the ABC EAREX campaign, J. Geophys. Res., 112, D22S33, doi:10.1029/2006JD008201
++ Kim, J., C.J. Park, K.Y. Lee, D.H. Lee, Y.O. Kim, H.K. Cho, G.R. Cho, and J. H. Park (1997), Rocket soundings of ozone profiles in the stratosphere over the Korean Peninsula, J. Geophys. Res., 102, 16121.

@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/18/seminar_leemyungin/</loc>
-    <lastmod>2018-03-18T12:49:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/17/seminar_kaplan/</loc>
-    <lastmod>2018-03-17T18:04:13+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
   </url>
   
@@ -23,18 +13,28 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</loc>
-    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</loc>
+    <loc>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoskor/education/calender/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</loc>
+    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/18/seminar_leemyungin/</loc>
+    <lastmod>2018-03-18T12:49:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/17/seminar_kaplan/</loc>
+    <lastmod>2018-03-17T18:04:13+09:00</lastmod>
   </url>
   
   <url>
@@ -108,6 +108,11 @@
   </url>
   
   <url>
+    <loc>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi1/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://web.yonsei.ac.kr/atmoskor/people/songyouhong/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
@@ -131,22 +136,12 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/educations/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoskor/faq/</loc>
   </url>
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoskor/categories/notice/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/research/</loc>
     <priority>0</priority>
   </url>
   
@@ -172,12 +167,6 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/educations/%EA%B5%90%EA%B3%BC%EA%B3%BC%EC%A0%95/</loc>
-    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoskor/teams/%EA%B5%90%EC%88%98%EC%A7%84/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
@@ -185,12 +174,6 @@
   
   <url>
     <loc>http://web.yonsei.ac.kr/atmoskor/</loc>
-    <lastmod>2018-03-18T12:49:47+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/educations/%EB%8C%80%ED%95%99%EC%9B%90/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -205,9 +188,7 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/educations/%EC%9E%A5%ED%95%99%EC%A0%9C%EB%8F%84/</loc>
-    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-    <priority>0</priority>
+    <loc>http://web.yonsei.ac.kr/atmoskor/research/</loc>
   </url>
   
   <url>
@@ -219,20 +200,8 @@
   </url>
   
   <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/educations/%ED%95%99%EB%B6%80/</loc>
-    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://web.yonsei.ac.kr/atmoskor/education/</loc>
     <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.yonsei.ac.kr/atmoskor/educations/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/</loc>
-    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
