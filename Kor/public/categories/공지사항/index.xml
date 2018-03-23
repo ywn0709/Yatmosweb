@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>공지사항 on 대기과학과</title>
+    <link>http://web.yonsei.ac.kr/atmoskor/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</link>
+    <description>Recent content in 공지사항 on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>공지사항 format</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/notice/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/notice/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+    </item>
+    
+  </channel>
+</rss>
