@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>교과과정</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</guid>
+      <description>학부과정 이수조건(단</description>
+    </item>
+    
+    <item>
       <title>학사일정</title>
       <link>http://web.yonsei.ac.kr/atmoskor/education/calender/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
@@ -45,15 +54,6 @@
       
       <guid>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</guid>
       <description>학부생 장학금 연세 한마</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</guid>
-      <description>title: &amp;ldquo;교과</description>
     </item>
     
   </channel>

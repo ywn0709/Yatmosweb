@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>교과과정</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</guid>
+      <description>학부과정 이수조건(단</description>
+    </item>
+    
+    <item>
       <title>학사일정</title>
       <link>http://web.yonsei.ac.kr/atmoskor/education/calender/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
@@ -138,6 +147,15 @@
     </item>
     
     <item>
+      <title>안순일</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</guid>
+      <description>연구분야 기후역학 대기</description>
+    </item>
+    
+    <item>
       <title>염성수</title>
       <link>http://web.yonsei.ac.kr/atmoskor/people/seongsooyum/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
@@ -219,42 +237,12 @@
     </item>
     
     <item>
-      <title></title>
-      <link>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</guid>
-      <description>title: &amp;ldquo;교과</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</guid>
-      <description>+++ title = &amp;ldquo;</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>BK21 지구-대기-천문 사업단</title>
       <link>http://web.yonsei.ac.kr/atmoskor/research/bk21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.yonsei.ac.kr/atmoskor/research/bk21/</guid>
-      <description>&lt;p&gt;+++&lt;/p&gt;
-
-&lt;p&gt;title = &amp;ldquo;BK21 지구-대기-천문 사업단&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;description = &amp;ldquo;Institute of Earth, Atmosphere and Astronomy&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;type = &amp;ldquo;research&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;icon = &amp;ldquo;users&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
-
-&lt;hr /&gt;
+      <description>&lt;hr /&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

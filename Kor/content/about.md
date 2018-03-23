@@ -7,7 +7,7 @@ images = "img/_img_intro.jpg"
 
 <!--more-->
 <div class='image'>
-<img src="../../img/_img_intro.jpg" class="img-responsive" alt="">
+<img src="../img/_img_intro.jpg" class="img-responsive" alt="">
 </div>
 
 ## 학과 소개
