@@ -1,7 +1,7 @@
 +++
-title = "[Seminar] Prof. Michael L. Kaplan"
+title = "[세미나] Prof. Michael L. Kaplan"
 date = 2018-03-17T18:04:13+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++

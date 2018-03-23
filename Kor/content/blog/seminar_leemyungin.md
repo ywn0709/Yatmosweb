@@ -1,7 +1,7 @@
 +++
-title = "[Seminar] Prof. Myung-in Lee"
+title = "[세미나] Prof. Myung-in Lee"
 date = 2018-03-18T12:49:47+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
