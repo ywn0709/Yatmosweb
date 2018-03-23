@@ -8,9 +8,6 @@ banner: "img/banners/banner-1.jpg"
 icon: "book"
 ---
 
-## 학부과정
-_ _ _
-
 #### 이수조건(단일전공 졸업기준, 일반편입생 동일 적용)
 <br>
 **필수교양**
@@ -67,7 +64,9 @@ _ _ _
 ## 졸업 조건표 (2010학번~)
 _ _ _
 
-<p><img src="/img/graduation_requirement_table.png" alt="foo" title="title" /></p>
+<div class='image'>
+<img src="../../img/graduation_requirement_table.png" class="img-responsive" alt="">
+</div>
 
 
 | 구분  |   교양   |   |  |  |  |  |  |  |  | 3~4천단위 | 영어인증여부 | 전공 |  |  |  |  |  | 일반선택 | 합계 |
@@ -166,4 +165,3 @@ _ _ _
     (5) 논문, 공개발표 및 구두시험을 바탕으로 합격 여부를 결정한다. 
 <br>
 <br>
-
