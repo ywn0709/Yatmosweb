@@ -64,7 +64,9 @@ icon: "book"
 ## 졸업 조건표 (2010학번~)
 _ _ _
 
-<p><img src="/img/graduation_requirement_table.png" alt="foo" title="title" /></p>
+<div class='image'>
+<img src="../../img/graduation_requirement_table.png" class="img-responsive" alt="">
+</div>
 
 
 | 구분  |   교양   |   |  |  |  |  |  |  |  | 3~4천단위 | 영어인증여부 | 전공 |  |  |  |  |  | 일반선택 | 합계 |
