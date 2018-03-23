@@ -8,6 +8,8 @@ banner: "img/banners/banner-1.jpg"
 icon: "book"
 ---
 
+## 학부과정
+_ _ _
 #### 이수조건(단일전공 졸업기준, 일반편입생 동일 적용)
 <br>
 **필수교양**
