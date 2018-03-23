@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>대기과학과</title>
+    <link>http://web.yonsei.ac.kr/atmoskor/</link>
+    <description>Recent content on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2017 14:08:23 -0500</lastBuildDate>
+    
+	<atom:link href="http://web.yonsei.ac.kr/atmoskor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>학부</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/undergraduate/</guid>
+      <description>입학 안내 연세대학교 입</description>
+    </item>
+    
+    <item>
+      <title>대학원</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/graduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/graduate/</guid>
+      <description>입학 안내 연세대학교 일</description>
+    </item>
+    
+    <item>
+      <title>교과과정</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/curriculum/</guid>
+      <description>이수조건(단일전공 졸</description>
+    </item>
+    
+    <item>
+      <title>학사일정</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/calender/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/calender/</guid>
+      <description>연세대학교 학사일정 바</description>
+    </item>
+    
+    <item>
+      <title>장학제도</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/education/scholarship/</guid>
+      <description>학부생 장학금 연세 한마</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Prof. Myung-in Lee</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/18/seminar_leemyungin/</link>
+      <pubDate>Sun, 18 Mar 2018 12:49:47 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/18/seminar_leemyungin/</guid>
+      <description>Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Prof. Michael L. Kaplan</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/17/seminar_kaplan/</link>
+      <pubDate>Sat, 17 Mar 2018 18:04:13 +0900</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2018/03/17/seminar_kaplan/</guid>
+      <description>The Unbalanced Dynamics of Deep Jet Streaks Above Developing Surface</description>
+    </item>
+    
+    <item>
+      <title>notice format</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/notice/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/blog/2015/10/10/notice/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+    </item>
+    
+    <item>
+      <title>김정우</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/jeongwookim/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/jeongwookim/</guid>
+      <description>연구분야 대기역학 기후</description>
+    </item>
+    
+    <item>
+      <title>김준</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/jhoonkim/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/jhoonkim/</guid>
+      <description>연구분야 대기복사 대기</description>
+    </item>
+    
+    <item>
+      <title>김현미</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hyunmeekim/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hyunmeekim/</guid>
+      <description>연구분야 자료동화 예측</description>
+    </item>
+    
+    <item>
+      <title>노의근</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yignnoh/</guid>
+      <description>연구분야 난류 유체역학</description>
+    </item>
+    
+    <item>
+      <title>박상훈</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/sanghunpark/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/sanghunpark/</guid>
+      <description>연구분야 대기모델링 담</description>
+    </item>
+    
+    <item>
+      <title>송하준</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hajoonsong/</guid>
+      <description>연구분야 Air-sea interactions Carbon cycle Data assimilation</description>
+    </item>
+    
+    <item>
+      <title>신동빈</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/dongbinshin/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/dongbinshin/</guid>
+      <description>연구분야 위성기상 원격</description>
+    </item>
+    
+    <item>
+      <title>염성수</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/seongsooyum/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/seongsooyum/</guid>
+      <description>연구분야 구름물리학 구</description>
+    </item>
+    
+    <item>
+      <title>이승만</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/seungmanlee/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/seungmanlee/</guid>
+      <description>연구분야 담당과목 논문</description>
+    </item>
+    
+    <item>
+      <title>이태영</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/taeyounglee/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/taeyounglee/</guid>
+      <description>연구분야 중규모기상학</description>
+    </item>
+    
+    <item>
+      <title>전혜영</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hyeyeongchun/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hyeyeongchun/</guid>
+      <description>연구분야 대기중력파 중</description>
+    </item>
+    
+    <item>
+      <title>조희구</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/hikucho/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/hikucho/</guid>
+      <description>연구분야 대기복사 오존</description>
+    </item>
+    
+    <item>
+      <title>최연주</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi/</guid>
+      <description>연구분야 Air-sea interactions Carbon cycle Data assimilation</description>
+    </item>
+    
+    <item>
+      <title>최연주</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi1/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/yeonjuchoi1/</guid>
+      <description>연구분야 Air-sea interactions Carbon cycle Data assimilation</description>
+    </item>
+    
+    <item>
+      <title>홍성유</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/songyouhong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/songyouhong/</guid>
+      <description>연구분야 수치모델링 단</description>
+    </item>
+    
+    <item>
+      <title>홍진규</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/jinkyuhong/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/jinkyuhong/</guid>
+      <description>연구분야 생물대기 상호</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/people/soonilan/</guid>
+      <description>+++ title = &amp;ldquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://web.yonsei.ac.kr/atmoskor/research/bk21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/research/bk21/</guid>
+      <description>&lt;p&gt;+++&lt;/p&gt;
+
+&lt;p&gt;title = &amp;ldquo;BK21 지구-대기-천문 사업단&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;description = &amp;ldquo;Institute of Earth, Atmosphere and Astronomy&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;type = &amp;ldquo;research&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;icon = &amp;ldquo;users&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;+++&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/contact/</guid>
+      <description>We are here to help you Are you curious about something?</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</description>
+    </item>
+    
+    <item>
+      <title>연구 분야</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/research/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/research/research/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;연세대학교 대기과학과에서 이루어지는 연구는 넓은 스펙트럼을 가지고 있습니다.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10개의 연구실에서 매일의 날씨에 관한 연구 쁜만 아니라 과거에서 미래로 이어지는 지구의 기후에 관한 연구가 동시에 진해되고 있으며,
+지역적인 기상 현상에서부터 전 지구의 대기 및 해양 순환에 이르기 까지 다양한 시공간에 대한 연구가 이루어지고 있습니다.
+이를 위하여 우리들은 물리/수학을 바탕으로 한 이론과 인공위성을 포함한 다양한 관측, 그리고 슈퍼컴퓨터를 활용하는 연구를 수행하고 있습니다.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>지구환경연구소</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/research/environmentcenter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/research/environmentcenter/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>학과소개</title>
+      <link>http://web.yonsei.ac.kr/atmoskor/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.yonsei.ac.kr/atmoskor/about/</guid>
+      <description>학과 소개 대기과학은 수</description>
+    </item>
+    
+  </channel>
+</rss>
