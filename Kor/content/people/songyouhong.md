@@ -7,6 +7,7 @@ email = "shong@yonsei.ac.kr"
 job = "퇴임교수"
 phone = "02-2123-2679"
 room = "수치모델링 연구실 / 과학관 544호"
+web = ""
 +++
 
 #### 연구분야
@@ -23,5 +24,3 @@ room = "수치모델링 연구실 / 과학관 544호"
 #### 논문
 + Publicaiton 1
 + Publication 2
-
-

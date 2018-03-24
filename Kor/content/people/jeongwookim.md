@@ -12,12 +12,3 @@ room = "기후시스템 연구실 / 과학관 537호"
 #### 연구분야
 + 대기역학
 + 기후역학
-
-#### 담당과목
-
-#### 논문
-+ Publicaiton 1
-+ Publication 2
-+ Publication 3
-
-

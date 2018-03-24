@@ -7,6 +7,7 @@ email = "ssyum@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5681"
 room = "구름물리 연구실 / 과학관 547호"
+web = ""
 +++
 
 #### 연구분야
@@ -21,5 +22,3 @@ room = "구름물리 연구실 / 과학관 547호"
 + Publicaiton 1
 + Publication 2
 + Publication 3
-
-

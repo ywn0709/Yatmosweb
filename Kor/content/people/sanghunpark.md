@@ -7,6 +7,7 @@ email = "pshun@yonsei.ac.kr"
 job = "조교수"
 phone = "02-2123-5686"
 room = "~~~~ 연구실 / 과학관 537호"
+web = ""
 +++
 
 #### 연구분야
