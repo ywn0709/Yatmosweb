@@ -8,6 +8,15 @@ banner: "img/banners/banner-1.jpg"
 icon: "graduation-cap"
 ---
 
+Here comes summary
+Here comes summary
+Here comes summary
+Here comes summary
+Here comes summary
+Here comes summary
+Here comes summary
+Here comes summary
+<!--more-->
 ## 입학 안내
 _ _ _
 
