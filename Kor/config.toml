@@ -194,8 +194,8 @@ summarylength = 10
 
 [params.recent_posts]
     enable = true
-    title = "소식 및 세미나 공지"
-    subtitle = "최근 학과 소식 및 세미나에 대한 공지사항 입니다. 자세한 사항은 학과소식을 참고해 주세요."
+    title = "논문 소식 및 세미나 공지"
+    subtitle = "최근 출판된 논문 관련소식 및 세미나에 대한 공지사항 입니다. 자세한 사항은 학과소식을 참고해 주세요."
 
 [taxonomies]
     tag = "tags"

@@ -13,6 +13,3 @@ room = "지구물리 유체역학 연구실 / 과학관 534호"
 + Air-sea interactions
 + Carbon cycle
 + Data assimilation
-
-
-

@@ -63,7 +63,6 @@
                         </section>
 
                         {{ else if or (isset .Params "educations") (eq .Type "educations") }}
-                        {{ .Type }}
                         <!--  List page for "educations"  -->
                         {{ $paginator := (.Paginate .Data.Pages) }}
                         {{ range $paginator.Pages }}
@@ -105,6 +104,9 @@
                         <!-- List page for "blog" -->
                         {{ $paginator := (.Paginate .Data.Pages) }}
                         {{ range $paginator.Pages }}
+                        {{ if eq ( .Params.categories "세미나" ) }}
+                        {{ .Params.categories }}
+                        {{ end }}
                         <section class="post">
                             <div class="row">
                                 <div class="col-md-12">

@@ -40,7 +40,7 @@
 
                         <!-- List page for "teams" -->
                         <section class="post">
-                        <div class="row equal">
+                        <!--div class="row equal"-->
                         <div class="row center-block">
                         {{ $paginator := (.Paginate .Data.Pages) }}
                         {{ range $paginator.Pages }}
@@ -59,7 +59,7 @@
                             </div>
                         {{ end }}
                         </div>
-                        </div>
+                        <!--/div-->
                         </section>
 
                         {{ else if or (isset .Params "educations") (eq .Type "educations") }}

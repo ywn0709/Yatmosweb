@@ -5,14 +5,4 @@ teams = ["교수진"]
 banner = "img/people/seungmanlee.jpg"
 email = ""
 job = "퇴임교수"
-phone = ""
-room = ""
 +++
-
-#### 연구분야
-
-#### 담당과목
-
-#### 논문
-+ Publicaiton 1
-+ Publication 2
