@@ -9,7 +9,7 @@
             <div class="blog-entries">
                 {{ range first 3 (where .Site.Pages "Type" "blog") }}
                 <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
+                    <div class="image same-height-always text-right">
                         <a href="{{ .Permalink }}">
                             <span class="fa-stack fa-lg" style="color:#fff;">
                                 <i class="fa fa-circle-thin fa-stack-2x"></i>
@@ -17,7 +17,7 @@
                             </span>
                         </a>
                     </div>
-                    <div class="name same-height-always">
+                    <div class="name same-height-always text-left">
                         <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
                     </div>
                 </div>

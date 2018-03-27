@@ -1,4 +1,4 @@
-+++ 
++++
 title = "안순일"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["교수진"]
@@ -7,6 +7,7 @@ email = "sian@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5684"
 room = "기후이론 연구실 / 과학관 538호"
+web = "http://web.yonsei.ac.kr/climate"
 +++
 
 #### 연구분야

@@ -1,6 +1,12 @@
 - id: home
   translation: "Home"
 
+- id: prev
+  translation: "이전"
+
+- id: next
+  translation: "다음"
+
 - id: templateBy
   translation: "Template by"
 
