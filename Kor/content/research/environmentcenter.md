@@ -4,10 +4,11 @@ description = "Global Environment Research Center"
 type = "research"
 keywords = ["research","environment","환경","연구소"]
 icon = "users"
+weight = 3
 +++
 _ _ _
 
-
+**지구환경연구소의 설립 목적과 주요 활동에 관한 안내입니다.**
 <!--more-->
 
 
