@@ -7,6 +7,11 @@ weight: 5
 banner: "img/banners/banner-1.jpg"
 icon: "calendar"
 ---
+학사일정 안내입니다.
+<!--more-->
+
+<br>
+<br>
 
 [연세대학교 학사일정 바로가기](http://www.yonsei.ac.kr/sc/support/calendar.jsp)
 <br>

@@ -1,6 +1,6 @@
 +++
 title = "양은경"
-date = "2018-03-24T133946+0200"
+date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
 banner = "img/people/eungyeongyang.png"
 email = "yeg24@yonsei.ac.kr"
