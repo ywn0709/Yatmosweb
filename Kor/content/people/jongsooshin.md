@@ -21,7 +21,7 @@ web = "http:/web.yonsei.ac.kr/climatelab/"
 
 #### 수상내역
  + 최우수포스터논문상. 폭염의 보건 영향과 기후변화 적응정책: 지방자치단체의 폭염 적응. 기후변화학회 2017.
-+ 우수논문상. Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century. 연세대학교 BK21플러스 지구대기천문사업단장.
+ + 우수논문상. Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century. 연세대학교 BK21플러스 지구대기천문사업단장.
 
 
 #### 논문
