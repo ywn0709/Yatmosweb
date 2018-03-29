@@ -8,6 +8,7 @@ job = "박사후 연구원"
 phone = "없음"
 room = "박사후 연구실 / 과학관 529A호"
 web = "http://atmosdyn.yonsei.ac.kr"
+weight = 20
 +++
 
 #### 연구분야

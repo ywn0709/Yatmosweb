@@ -8,6 +8,7 @@ job = "통합과정"
 phone = "02-2123-7616"
 room = "대기복사연구실 / 과학관 701호"
 web = "http://web.yonsei.ac.kr/oasis/"
+weight = 40
 +++
 
 #### 연구분야
@@ -19,8 +20,7 @@ web = "http://web.yonsei.ac.kr/oasis/"
 + **B.Sc** (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
- + 
+ +
 
 #### 논문
-+ 
-
++

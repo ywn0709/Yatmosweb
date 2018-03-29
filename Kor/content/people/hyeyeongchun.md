@@ -8,6 +8,7 @@ job = "정교수"
 phone = "02-2123-2692"
 room = "대기역학 연구실 / 과학관 543호"
 web = "http://atmosdyn.yonsei.ac.kr"
+weight = 2
 +++
 
 #### 연구분야

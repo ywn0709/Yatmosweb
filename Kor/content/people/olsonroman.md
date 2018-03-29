@@ -8,6 +8,7 @@ job = "연구 교수"
 phone = ""
 room = "대기역학 연구실 / 과학관 529A호"
 web = "http://web.yonsei.ac.kr/climatelab/OlsonRoman.htm"
+weight = 20
 +++
 
 #### 연구분야

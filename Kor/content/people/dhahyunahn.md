@@ -8,6 +8,7 @@ job = "석사과정"
 phone = "02-2123-7616"
 room = "대기복사연구실 / 과학관 531호"
 web = "http://web.yonsei.ac.kr/oasis/"
+weight = 50
 +++
 
 #### 연구분야
@@ -22,4 +23,3 @@ web = "http://web.yonsei.ac.kr/oasis/"
 
 #### 논문
 + Koo, J. H., T. Choi, Y. Cho, H. Lee, J. Kim, D. H. Ahn, J. Kim, and Y. G. Lee (2017), The variation of aerosol optical depth over the polar stations of Korea, Part. Aerosol Res., 13(4), 141-150, doi:10.11629/jpaar.2017.12.30.141. (in Korean)
-

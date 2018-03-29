@@ -8,11 +8,12 @@ job = "통합과정"
 phone = "02-2123-2690"
 room = "지구물리유체역학 연구실 / 과학관 534호"
 web = "http://gfdl.yonsei.ac.kr"
+weight = 40
 +++
 
 #### 연구분야
 + Lagrangian Cloud Model
-+ Large Eddy Simulation 
++ Large Eddy Simulation
 
 #### 학력
  + **B.Sc** (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea
@@ -21,4 +22,3 @@ web = "http://gfdl.yonsei.ac.kr"
 
 
 #### 논문
-

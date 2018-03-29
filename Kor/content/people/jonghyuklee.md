@@ -8,6 +8,7 @@ job = "통합과정"
 phone = ""
 room = "위성관측 연구실 / 과학관 529b호"
 web = "arsl.yonsei.ac.kr"
+weight = 40
 +++
 
 #### 연구분야
@@ -21,4 +22,3 @@ web = "arsl.yonsei.ac.kr"
 
 
 #### 논문
-

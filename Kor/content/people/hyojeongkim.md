@@ -8,12 +8,13 @@ job = "박사과정"
 phone = "010-3201-1382"
 room = "기후이론연구실 / 과학관 536A호"
 web = "http://web.yonsei.ac.kr/climatelab"
+weight = 30
 +++
 
 #### 연구분야
-+ Paleoclimate 
++ Paleoclimate
 + External forcing and climate change
-+ Atmosphere-ocean coupled variability 
++ Atmosphere-ocean coupled variability
 
 #### 학력
  + **M.Sc** (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
@@ -25,8 +26,3 @@ web = "http://web.yonsei.ac.kr/climatelab"
 #### 논문
 + S.-I. An, H.-J. Kim, W. Park, and B. Schneider (2017) Impact of ENSO on East Asian winter monsoon
 during interglacial periods: effect of orbital forcing, Clim Dyn 49:3209-3219
-
-
-
-
-

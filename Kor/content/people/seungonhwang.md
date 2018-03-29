@@ -8,6 +8,7 @@ job = "연구 교수"
 phone = " "
 room = "대기예측성 및 자료동화 연구실 / 과학관 529A호"
 web = "http://web.yonsei.ac.kr/apdal"
+weight = 20
 +++
 
 #### 연구분야

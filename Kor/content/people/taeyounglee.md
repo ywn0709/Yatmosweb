@@ -7,6 +7,7 @@ email = "lty@yonsei.ac.kr"
 job = "명예교수"
 phone = "02-2123-2687"
 room = "대기모형 및 대기오염 연구실 / 과학관 539호"
+weight = 11
 +++
 
 #### 연구분야

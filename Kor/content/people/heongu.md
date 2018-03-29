@@ -8,6 +8,7 @@ job = "석사과정"
 phone = "010-3678-0204"
 room = "위성관측 연구실 / 과학관 529B호"
 web = "http://arsl.yonsei.ac.kr"
+weight = 50
 +++
 
 #### 연구분야
@@ -20,4 +21,3 @@ web = "http://arsl.yonsei.ac.kr"
 
 
 #### 논문
-
