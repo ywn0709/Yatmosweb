@@ -2,7 +2,7 @@
 title = "고한창"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
-banner = "img/people/HanChangKo.png"
+banner = "img/people/Han-Chang Ko.png"
 email = "gcinc@yonsei.ac.kr"
 job = "통합과정"
 phone = "02-2123-7643"
