@@ -2,7 +2,7 @@
 title = "강민지"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
-banner = "img/people/minjeekang.png"
+banner = "img/people/minjeekang.jpg"
 email = "kangmj@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7643"
