@@ -1,13 +1,13 @@
 +++
-title = 양은경
-date = 2018-03-24T133946+0200
-teams = ["학생]
-banner = imgpeopleeungyeongyang.png
-email = yeg24@yonsei.ac.kr
-job = 박사과정
-phone = 02-2123-4815
-room = 대기예측성 및 자료동화 연구실  과학관 530 B호"
-web = httpweb.yonsei.ac.krapdal
+title = "양은경"
+date = "2018-03-24T133946+0200"
+teams = ["학생"]
+banner = "img/people/eungyeongyang.png"
+email = "yeg24@yonsei.ac.kr"
+job = "박사과정"
+phone = "02-2123-4815"
+room = "대기예측성 및 자료동화 연구실 / 과학관 530 B호"
+web = "http://web.yonsei.ac.kr/apdal"
 +++
 
 #### 연구분야
