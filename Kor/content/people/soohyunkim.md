@@ -8,6 +8,7 @@ job = "통합과정"
 phone = "02-2123-7643"
 room = "대기역학 연구실 / 과학관 533A호"
 web = "http://atmosdyn.yonsei.ac.kr"
+weight = 40
 +++
 
 #### 연구분야
@@ -24,4 +25,3 @@ web = "http://atmosdyn.yonsei.ac.kr"
 #### 논문
 + Kim, S.-H., and H.-Y. Chun (2016), Aviation turbulence encounters detected from aircraft observations: spatiotemporal characteristics and application to Korean Aviation Turbulence, Meteorol. Appl., 23, 594-604.
 + Kim, S.-H., H.-Y. Chun, and P. W. Chan (2017), Comparison of turbulence indicators obtained from in situ flight data, J. Appl. Meteor. Climatol., 56, 1609-1623.
-

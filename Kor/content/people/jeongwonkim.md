@@ -8,6 +8,7 @@ job = "석사과정"
 phone = "02-2123-5680"
 room = "미기상연구실 / 과학관 533B호"
 web = "http://eapl.yonsei.ac.kr"
+weight = 50
 +++
 
 #### 연구분야
@@ -21,4 +22,3 @@ web = "http://eapl.yonsei.ac.kr"
  + (2017) Best university graduate award from the Korea Meteorological Society
 
 #### 논문
-

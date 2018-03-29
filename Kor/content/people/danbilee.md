@@ -8,6 +8,7 @@ job = "박사과정"
 phone = "02-2123-7643"
 room = "대기역학 연구실 / 과학관 533A호"
 web = "http://atmosdyn.yonsei.ac.kr"
+weight = 30
 +++
 
 #### 연구분야
@@ -26,4 +27,3 @@ web = "http://atmosdyn.yonsei.ac.kr"
 + 이단비, 전혜영 (2015), 한반도 및 동아시아 지역에서 조종사 보고 자료로 관측된 항공난류의 통계적 분석, 대기, 25(1), 1-12.
 + 이단비, 전혜영 (2015), 기상청 고해상도 지역예보모델을 이용한 한반도 영역 한국형 항공난류 예측시스템(한반도-KTG) 개발, 대기, 25(2), 367-374.
 + Lee, D.-B., and H.-Y. Chun (2018), A numerical study of aviation turbulence encountered on 13 February 2013 over the Yellow Sea between China and Korea, J. Appl. Meteor. Climatol., In press.
-

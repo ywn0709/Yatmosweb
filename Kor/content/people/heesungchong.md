@@ -8,6 +8,7 @@ job = "통합과정"
 phone = "02-2123-7616"
 room = "대기복사연구실 / 과학관 531호"
 web = "http://web.yonsei.ac.kr/oasis/"
+weight = 40
 +++
 
 #### 연구분야
@@ -23,4 +24,3 @@ web = "http://web.yonsei.ac.kr/oasis/"
 
 #### 논문
 + Chong, H., H. Lee, J. H. Koo, J. Kim, U. Jeong, W. Kim, S. W. Kim, J. R. Herman, N. K. Abuhassan, J. Y. Ahn, J. H. Park, S. K. Kim, K. J. Moon, W. J. Choi, and S. S. Park (2018), Regional characteristics of NO2 column densities from Pandora observations during the MAPS-Seoul campaign, Aerosol and Air Quality Research, (accepted).
-

@@ -8,6 +8,7 @@ job = "박사과정"
 phone = ""
 room = "위성관측 연구실 / 과학관 529B호"
 web = "http://arsl.yonsei.ac.kr"
+weight = 30
 +++
 
 #### 연구분야
@@ -26,4 +27,3 @@ web = "http://arsl.yonsei.ac.kr"
 
 #### 논문
 Kim and Jeong (2016), Derivations of Surface Solar Radiation from Polar Orbiting Satellite Observations, Korean Journal of Remote Sensing, Vol.32, No.3, 2016, pp.201~220
-

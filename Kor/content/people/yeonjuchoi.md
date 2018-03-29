@@ -8,6 +8,7 @@ job = "통합과정"
 phone = "02-2123-2690"
 room = "지구물리유체역학 연구실 / 과학관 534호"
 web = "http://gfdl.yonsei.ac.kr"
+weight = 40
 +++
 
 #### 연구분야
@@ -24,4 +25,3 @@ web = "http://gfdl.yonsei.ac.kr"
 #### 논문
 + Y. Noh, and Y. Choi (2018), Comments on “Langmuir Turbulence and Surface Heating in the Ocean Surface Boundary Layer”, J. Phys. Oceanogr., (accepted)
 + Ok, H., Y. Noh, and Y. Choi (2017), Influence of Pycnocline Smoothing and Subgrid-Scale Variability of Density Profiles on the Determination of Mixed Layer Depth, J. Atmos. Oceanic Technol., 34, 2083-2101.
-

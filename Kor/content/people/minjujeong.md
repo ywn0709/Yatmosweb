@@ -8,10 +8,11 @@ job = "석사과정"
 phone = "02-2123-7613"
 room = "구름물리 연구실 / 과학관 530A호"
 web = "http://cloud.yonsei.ac.kr"
+weight = 50
 +++
 
 #### 연구분야
-+ Measurement of physical and chemical characteristics of aerosol and CCN 
++ Measurement of physical and chemical characteristics of aerosol and CCN
 
 #### 학력
  + **B.Sc** (2016) in Astronomy and Space Science, Kyunghee Universtiy, Yongin, Korea

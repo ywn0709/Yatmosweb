@@ -8,6 +8,7 @@ job = "박사과정"
 phone = "02-2123-5680"
 room = "미기상연구실 / 과학관 533B호"
 web = "http://eapl.yonsei.ac.kr"
+weight = 30
 +++
 
 #### 연구분야
@@ -27,4 +28,3 @@ web = "http://eapl.yonsei.ac.kr"
 
 #### 논문
 + Hong, J.-W., and J. Hong (2016), Changes in urban heat environment with residential redevelopment in the Seoul metropolitan area, J. Appl. Meteor. Clim., 55, 1091-1106.
-

@@ -8,6 +8,7 @@ job = "박사후연구원"
 phone = "02-2123-8116"
 room = "대기복사 연구실 / 과학관 522B호"
 web = "http://web.yonsei.ac.kr/oasis "
+weight = 20
 +++
 
 #### 연구분야

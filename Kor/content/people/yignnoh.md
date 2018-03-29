@@ -7,6 +7,7 @@ email = " noh@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-2690"
 room = "지구물리 유체역학 연구실 / 과학관 540호"
+weight = 1
 +++
 
 #### 연구분야
