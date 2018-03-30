@@ -1,4 +1,4 @@
-weight: 3
+weight: 7
 title: "2017년 우수논문 수상자"
 description: >
   <ul class="list-style-none">
@@ -7,3 +7,4 @@ description: >
     <li>축하합니다!</li>
   </ul>
 image: "img/carousel/template-easy-customize.png"
+dest: "blog"
