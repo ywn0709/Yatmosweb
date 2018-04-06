@@ -1,9 +1,10 @@
 +++
 title = "석사"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["졸업생"]
+teams = ["졸업생명단"]
 banner = "img/people/alumni.png"
 type = "alumni"
+weight = 60
 +++
 ## 석사학위자 명단
 <style type="text/css">
