@@ -3,9 +3,9 @@ title = "박사"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["졸업생"]
 banner = "img/people/alumni.png"
-
+type = "alumni"
 +++
-
+## 박사학위자 명단
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
