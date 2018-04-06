@@ -7,6 +7,7 @@ email = "ocm0426@yonsei.ac.kr"
 job = "석사과정"
 phone = "010-5070-4367"
 room = "대기모델링 연구실 / 과학관 536B호"
+weight = 50
 web = " "
 +++
 
