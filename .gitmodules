@@ -1,4 +1,0 @@
-[submodule "Kor/public"]
-	path = Kor/public
-	url = git@github.com:hajsong/hajsong.github.io.git
-	branch = master
