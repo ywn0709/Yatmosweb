@@ -1,7 +1,7 @@
-baseurl = "http://web.yonsei.ac.kr/atmoskor/"
+baseurl = "http://web.mit.edu/hajsong/www/"
 title = "대기과학과"
 theme = "hugo-universal-theme"
-languageCode = "en-us"
+languageCode = "ko"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
