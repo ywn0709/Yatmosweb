@@ -8,7 +8,7 @@ icon = "microphone"
 ### Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns
 <br>
 #### Prof. Myong-In Lee (Ulsan National Institute of Science and Technology)
-#### 2018/3/20 (Tuesday) 16:00
+#### March 20, 2018 (Tuesday) 16:00
 #### Science Hall #553
 <br>
 #### Abstract
